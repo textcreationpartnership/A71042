@@ -1,0 +1,603 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A wonder of wonders, or, A metamorphosis of fair faces voluntarily transformed into foul visages or, an invective against black-spotted faces / by a well-willer to modest matrons and virgins Miso-Spilus, i. qui maculas odit ; published by R. Smith, gent.</title>
+            <author>Miso-Spilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 93 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A71042</idno>
+            <idno type="STC">Wing S4149</idno>
+            <idno type="STC">ESTC R26395</idno>
+            <idno type="EEBO-CITATION">09452237</idno>
+            <idno type="OCLC">ocm 09452237</idno>
+            <idno type="VID">43143</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A71042)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43143)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1049:16 or 1321:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A wonder of wonders, or, A metamorphosis of fair faces voluntarily transformed into foul visages or, an invective against black-spotted faces / by a well-willer to modest matrons and virgins Miso-Spilus, i. qui maculas odit ; published by R. Smith, gent.</title>
+                  <author>Miso-Spilus.</author>
+                  <author>Smith, R., gent.</author>
+               </titleStmt>
+               <extent>[8], 31 p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.G. for Richard Royston ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated t.p.</note>
+                  <note>This work appears at Reel 1049:16 as Wing S4149, and at Reel 1321:13 as Wing W3359 (does not appear in Wing (CD-ROM, 1996)).</note>
+                  <note>Reproduction of original in the Harvard University Library and the Huntington Library.</note>
+                  <note>Includes bibliographical references.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cosmetics --  Religious aspects.</term>
+               <term>Beauty, Personal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43143:1"/>
+            <pb facs="tcp:43143:1"/>
+            <p>A WONDER of WONDERS: OR, A Metamorphoſis of Fair FACES voluntarily transformed into foul VISAGES.</p>
+            <p>Or, an Invective againſt Black-ſpotted Faces: By a Well-willer to modeſt Matrons and Virgins, MISO-SPILUS, i. <hi>Qui maculas odit.</hi>
+            </p>
+            <figure>
+               <head>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. Euripid.</head>
+            </figure>
+            <p>Publiſhed by <hi>R. SMITH,</hi> Gent.</p>
+            <q>
+               <p>Non eſt ornamentum corporis quod corpus fucata ſpecie adumbrat, ſed quod ſuo exornat munere; quodque non in voluptatis lenocini<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, ſed in virtutis &amp; do<g ref="char:EOLhyphen"/>ctrinae conſiſtit obſequio.</p>
+               <bibl>H. Farneſius, de ſui cognitione, Quaeſt. 13.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. G.</hi> for <hi>Richard Royſton,</hi> Book<g ref="char:EOLhyphen"/>ſeller in <hi>Ivy-lane.</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:43143:2" rendition="simple:additions"/>
+            <pb facs="tcp:43143:2"/>
+            <head>To the young Ladies and Gentlewomen of the Society of Black-ſpotted Faces, newly taken into the Fellowſhip of the Company of Painter-Stainers, <hi>Miſo-Spilus</hi> wiſheth more Wiſdome and leſs Wilfulneſs.</head>
+            <opener>
+               <salute>Ladies and Gentlewomen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T was an old cuſtome of Writers to dedicate their Works new<g ref="char:EOLhyphen"/>ly ſet forth to ſuch perſons as were likely to approve of the ſame: but, contrary to this rule, I have dedicated this Tract to you, from whom I expect no approbation nor acceptance of my pains; for I conceive that the ſubject of the Diſcourſe will not pleaſe your fancies, it being averſe to your manners and conditi<g ref="char:EOLhyphen"/>ons, which being faulty and blame-worthy (in my opinion) cannot endure reprehenſion: but how can I forbear you, who having naturally comely, yea angelical complexions, which God hath given you, yet not content therewith, out of your own fantaſtick humours, make your ſelves reſem<g ref="char:EOLhyphen"/>ble infernal Daemons, and impudently preſume to amend and correct Gods work which he thought moſt fit for you, by your black-ſpotting your otherwiſe faire and well-favoured Viſages with ugly black ſpots and loathſome patches or plaiſters (moſt proper to cover ſores and ſcabs, for which purpoſe they are uſefull) pretending thereby againſt common ſenſe and reaſon to reduce your complexions to a better luſtre then God gave them: But ſee your errour; VVhereas you ſuppoſe that by apply<g ref="char:EOLhyphen"/>ing ſuch ſpots and patches to your faces ye beautifie and adorn them, ye indeed make them viſibly deformed and abominable in the eyes of all be<g ref="char:EOLhyphen"/>holders, eſpecially of the more judicious people, and therewithall alſo you bring your good name and reputations, yea your Religion alſo (if you have any) into ſuſpicion; levity breeding jealouſie; your defect of wiſdome alſo herein is not inconſiderable.</p>
+            <p>The uſe of painting and adulterating of womens faces is no new thing (and how much the older and more common, ſo much the worſe.) It hath been obſerved in former times by moſt of the religious and learned holy Fathers of the Primitive Church, and by other learned and judicious Do<g ref="char:EOLhyphen"/>ctors and Clerks of later dayes (againſt whom no juſt exception can be ta<g ref="char:EOLhyphen"/>ken) that to the ſcandal and reproach of Chriſtians ſuch painting and tincturing hath been publickly practiſed by women (eſpecially by ſuch who were eſteemed to have been lewd and of no good name or report) and condemned not onely as a fooliſh and ridiculous cuſtome, but likewiſe as ſcandalous, impious and profane, not alone for the adulterating and counterfeiting of Gods Image in their viſages, but principally for the
+<pb facs="tcp:43143:3"/>Pride, Laſciviouſneſs, impudence, and other Vices, which uſually ac<g ref="char:EOLhyphen"/>company it. All which I have eſſayed to make apparent unto you in this ſhort Diſcourſe, for no advantage to my ſelf, but onely for your own good, for your own fames and reputations. And think not your ſelves ex<g ref="char:EOLhyphen"/>empted from the cenſure pronounced againſt painted Faces, pretending a difference between painting and ſpotting, which I leave to the judge<g ref="char:EOLhyphen"/>ment of your own Company of Painter-Stainers, beſt skilled therein, to determine; for it will appear that ye are likewiſe concerned and inclu<g ref="char:EOLhyphen"/>ded intentionally therein, your conditions being both alike in moſt things concerning this diſſembling Art.</p>
+            <p>If you are offended that here and there I brand you with ſome unp ea<g ref="char:EOLhyphen"/>ſing names and epithetes, inferiour (as you may take it) to your qualities; know ye, that they are no other then ſuch as are ſuitable and agreeable to ſome of your conditions, wherein giving you but your own I do you no wrong; for if you think it not much, to your own ſhame, to ſpeckle your fair faces with foul ſpots, you may, as they ſay, <hi>Lege talionis,</hi> by the ſame Law allow me to ſpeckle your foul manners with like marks; neither can ye juſtly deem me a rayler (as perhaps ſome of you may) for telling you your faults ſo plainly: but you being conſcious to your ſelves, that my aim herein in rebuking you is onely to reform your defects where need is, may rather more truly ſay of him that does the like,
+<q>
+                  <l>
+                     <hi>Non eſt rix uor, potius probitatis amator:</hi>
+                  </l>
+                  <l>He a rayler cannot be, that lover is of honeſty.</l>
+               </q>
+            </p>
+            <p>But, Ladies, I would not have you think that in this Diſcourſe I do in<g ref="char:EOLhyphen"/>clude the Ladies of Honour, or of Noble rank, in taxing them with thoſe crimes I charge you withall, for that I ſee no cauſe to cenſure them as Delinquents, who by their noble birth and breeding are not of ſo degene<g ref="char:EOLhyphen"/>rous a ſpirit as to undervalue their worths, in diſhonouring themſelves by the fooliſh and phantaſtick uſe and application of ſuch ignoble arts and faſhions as do pleaſe you, wherewith if I ſhould have blemiſhed them, I ſhould have us juſtly defamed them; not knowing any one of them guilty thereof.</p>
+            <p>Neither doth my pen reflect upon any barbarous Nations that are not Chriſtians, who hold themſelves not tied to Chriſtian Principles; nor yet upon the Spaniſh, Italian, or any other Forraign Chriſtian Nation; no not upon the Venetian Curtizans (the moſt impudent Harlots of all other, as I am informed) for I have heard, that among theſe Nations by long cuſtome (the foſter-mother of Vices) the art or craft of painting or tincturing of womens faces is ordinarily uſed, without any ſenſe of evil in it; for, peradventure, they having never heard it cenſured as a crime, nor having ever been taught or inſtructed otherwiſe, might ſee nothing in it blamewo thy, and ſo by long continuance may ignorantly take up and practice that faſhion with impunity (it being either not for bidden or con<g ref="char:EOLhyphen"/>nived thereat) ſo that they may think it no offence to uſe that for which they were never reprehended, and being not prohibited might be accoun<g ref="char:EOLhyphen"/>ted
+<pb facs="tcp:43143:3"/>lawfull; howſoever the example of theſe ſtrangers (being all out of our laſh) cannot patronze your actions.</p>
+            <p>And whereas I have in this Tract produced principally the teſtimonies of the ancient Fathers of the Church to prove the unlawfulneſſe of this uſe of painting of womens faces; perhaps you give no credit to ſuch teſti<g ref="char:EOLhyphen"/>monies, becauſe, as ſome of you ſay, thoſe old Fathers alwayes poring on their books, had no experience or knowledge of theſe youthful delights, and ſo not competent judges, &amp; thereupon ye preſume to prefer your own erroneous opinions before their ſound and ſolid reaſons: If ſo, then the queſtion will be, whether ye (filly and ignorant creatures in compariſon to them) in your own caſe, or thoſe religious and learned men, ſo well ex<g ref="char:EOLhyphen"/>perienced in religious affairs by their ſtudies of long continuance (your reaſons being weighed in an equall balance) ought rather to be credited; ſurely either ye or they muſt be fooles, in not diſcerning the true ſtate of the Queſtion. Now which of you are moſt likely to apprehend the truth, I leave to any reaſonable men to judge, yea to your ſelves, if ye were not partiall.</p>
+            <p>Laſtly, if ye wonder why I ſtyle this Diſcourſe <hi>A VVonder of VVonders,</hi> you may take notice, that it is a wonder that any creature ſhould preſume to correct the work of his Creator; but that any Chriſtian ſhould delight to deform the lively Image of his Creator written in his forehead, as you do (being an offence coming neer to the nature of High Treaſon) it may properly be ſtyled <hi>A VVonder of VVonders.</hi>
+            </p>
+            <p>To conclude, Albeit Ladies I have juſtly blamed you for your defects, yet will I not wholly juſtifie my ſelf from all blame neither, for I ac<g ref="char:EOLhyphen"/>knowledge my weakneſs herein, that I have not ſufficiently painted our your weakneſs according to your defects, for want of experience in that Art wherein you are ſo well verſed; and likewiſe if the pious and prudent Fathers of the Church have plaid the fools in their zealous reprehenſi<g ref="char:EOLhyphen"/>ons of your fooleries, I cannot deny but that I alſo following their foot<g ref="char:EOLhyphen"/>ſteps have alſo eried with them: But had rather <hi>inſipere cum ſapied ibus,</hi> then <hi>ſapere cum inſipientibus;</hi> and ſuch is my caſe, wherein I reſt, and ſo reſt,</p>
+            <closer>
+               <signed>Your Friend, if you pleaſe, MISO. SPILUS.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:43143:4"/>
+            <head>Some witty Poems made by ſome witty and worthy perſons in deriſion and deſerved infamy of Black-ſpotted Faces.</head>
+            <head type="sub">On Painted and Black-ſpotted Faces.</head>
+            <lg>
+               <l>PHantaſtick Mad-dames, that are not content</l>
+               <l>With Gods deſign, but think to ornament</l>
+               <l>Your ſelves with borrowed Foils of Patch and Paint,</l>
+               <l>(Whereby you ſhew more of the Witch then Saint)</l>
+               <l>Striving to charm fond wantons with your looks,</l>
+               <l>To hang their fancies on their ſable-hooks;</l>
+               <l>You much miſtake, for your py'd hew affrights</l>
+               <l>More honeſt eyes then amorous Gulls invites.</l>
+               <l>Thoſe characters but ſpeak your Face a Spell,</l>
+               <l>A Conjurers book, that ſummons Sprights from Hell:</l>
+               <l>Your Paint reſembleth you to Poſts and Signes,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nder ſuch Viſors Thieves obſcure their crimes:</l>
+               <l>The Breaſt ſhop-windows open, and patcht skin,</l>
+               <l>Are Signs hung out to ſell the Wares within.</l>
+               <l>Your ſpots are Pluto's marks, who much do pleaſe</l>
+               <l>To ſend ſuch tokens to his friends as theſe;</l>
+               <l>But none of the good Shepherds ear-mark this,</l>
+               <l>This Spot (ſaith he) none of my childrens is:</l>
+               <l>If you be Sheep at all, theſe ſpeckling tricks,</l>
+               <l>Like <hi>Jacobs</hi> Ews, ſhew where you love to mix.</l>
+            </lg>
+            <lg>
+               <l>And yet the figures emblematick are,</l>
+               <l>Which our She-wantons ſo delight to wear;</l>
+               <l>The Coach and Horſes, with the hurrying wheels,</l>
+               <l>Shew both their giddy brains and gadding heels;</l>
+               <l>The Croſſe and Croſlets in your face combin'd,</l>
+               <l>Demonſtrate the croſſe humours of their mind;</l>
+               <l>The bias of the Bowls doth let us ſee,</l>
+               <l>They'l play a Rubbers, and the Miſtreſſe be;</l>
+               <l>The Rings do in them the Black Art diſplay,</l>
+               <l>That Spirits in their Circles raiſe and lay:</l>
+               <l>But oh, the ſable Starrs that you deſcry</l>
+               <l>Benights their day, and ſpeaks their darkned skie;</l>
+               <l>The ſeveral Moons that in their faces range,</l>
+               <l>Eclipſe fond <hi>Proteus</hi> in his various change;</l>
+               <l>
+                  <pb facs="tcp:43143:4"/>
+The long Slaſh and the ſhort, report the skars</l>
+               <l>Their skirmiſhes have gain'd in <hi>Cupid's</hi> wars.</l>
+               <l>For thoſe that into Patches clip the Crown,</l>
+               <l>'Tis time to take ſuch Pride and Treaſon down.</l>
+            </lg>
+            <lg>
+               <l>Thus by their patching and their dawbing task</l>
+               <l>They make the dancing world an Anti-mask;</l>
+               <l>While their Religion ſuiting well their Face</l>
+               <l>Is made up of a patch'd and painted grace;</l>
+               <l>While nick-nam'd confidence all check controuls,</l>
+               <l>Shews ſpotted faces have but ſpotted ſouls.</l>
+               <l>Theſe Arts, how dare they <hi>Paul</hi> and <hi>Peter</hi> name,</l>
+               <l>When both ſo ſharply reprehend the ſame?</l>
+               <l>How can they bluſh like a converted Saint,</l>
+               <l>Through ſuch a cloud of groſſe immodest Paint?</l>
+               <l>How can they weep for ſin, while they ſo fear</l>
+               <l>A ſpot ſhould be waſh'd off with every tear?</l>
+               <l>And happy were they, if it ſo might prove,</l>
+               <l>That <hi>Magdalen's</hi> great grief might gain ſuch love,</l>
+               <l>Yet thus much of Repentance they begin,</l>
+               <l>That in their foreheads you may read their Sin;</l>
+               <l>Which oh that real ſorrow might ſo blot,</l>
+               <l>That both parts be preſented without ſpot.</l>
+               <l>
+                  <hi>E. S.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Others on the ſame.</head>
+            <lg>
+               <l>YOu party-colour'd faces, not content</l>
+               <l>With Nature's Skin, nor Dreſſe's ornament,</l>
+               <l>But borrow'd tinctures crave, your fancy's ſuch,</l>
+               <l>What, can no Paintings pleaſe you but the ſmutch</l>
+               <l>Of <hi>Vulcan</hi>'s Forge, or ſteam of <hi>Stygian Lake?</hi>
+               </l>
+               <l>Such colours Beauty lends not; (you miſtake)</l>
+               <l>Much leſſe doth Vertue, her's the ſnowy white</l>
+               <l>Of Innocency, black its oppoſite.</l>
+               <l>The Maidens bluſh ſhews Grace, but ſable ſpot</l>
+               <l>Bewrayes proud ſhameleſſe vice that bluſhes not;</l>
+               <l>The white and red did <hi>Eve</hi> in <hi>Eden</hi> wear,</l>
+               <l>But now (God's Image loſt) black Fiends appear:</l>
+               <l>Complexion ſpeaks you Mungrels, and your Blood</l>
+               <l>Part <hi>Europe,</hi> part <hi>America,</hi> mixt brood;</l>
+               <l>
+                  <pb facs="tcp:43143:5"/>
+From <hi>Britains</hi> and from <hi>Negroes</hi> ſprung, your cheeks</l>
+               <l>Diſplay both colours, each their own there ſeeks.</l>
+               <l>Som plaiſters draw corruptions to an head,</l>
+               <l>But theſe yet more corrupt infections ſpread:</l>
+               <l>Some Plaiſters heal, but theſe abominations</l>
+               <l>But ſcar your honours, wound your reputations.</l>
+               <l>To ſee your cloaths ſo patch'd (which yet at beſt</l>
+               <l>But Silk-worms web) how would your ſcorns deteſt?</l>
+               <l>And can you view your Glaſſes, and not ſhame</l>
+               <l>To patch thoſe faces God himſelf did frame?</l>
+               <l>His work ſeems to diſtaſte you (your Creation)</l>
+               <l>Take heed yours tempt him not with alteration:</l>
+               <l>How dare you ſupplicate the Throne of Grace</l>
+               <l>To blot your ſins, yet ſtill ſhew blotted face?</l>
+               <l>You wear Death's badge, each patch but mourning weed,</l>
+               <l>Foretelling in its room the worm ſhall feed;</l>
+               <l>Then ere that time ſurprize, diſcard the Spot,</l>
+               <l>Leſt he that made you ſay, <hi>I know you not.</hi>
+               </l>
+               <l>Let tears ſucceed them, and repent this ſin,</l>
+               <l>Heaven's gates may ope, you ſpotleſſe enter in.</l>
+               <l>
+                  <hi>E. Weſtyield.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Others on the ſame.</head>
+            <lg>
+               <l>YOu dawbed Ladies, if you needs muſt ſhow</l>
+               <l>Your nakedneſſe, I pray why ſpotted ſo?</l>
+               <l>Hath Beauty, think you, luſtre from thoſe Spots?</l>
+               <l>Is paper whiter when it ſtands in blots?</l>
+            </lg>
+            <lg>
+               <l>What, have you cut your Masks up into Sippets,</l>
+               <l>Like wanton girles, to make you Spots and Tippets?</l>
+               <l>Pride is a Plague, ſure theſe are the Sores,</l>
+               <l>I will write <hi>LORD HAVE MERCY</hi> on your doors.</l>
+            </lg>
+            <lg>
+               <l>Devils are black, who doubts it? yet ſome write</l>
+               <l>That there are Devils likewiſe that are white.</l>
+               <l>Well, I have found a third ſort, which are neither,</l>
+               <l>They be py'd Devils, black and white togther.</l>
+            </lg>
+         </div>
+         <div type="text">
+            <pb n="1" facs="tcp:43143:5"/>
+            <head>A VVonder of VVonders: <hi>OR, A ſtrange</hi> Metamorphoſis <hi>of</hi> Fair Faces, <hi>volun<g ref="char:EOLhyphen"/>tarily deformed, to make them ſeem more amiable.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">I</seg>T is an old ſaying, and (as we find by ſad ex<g ref="char:EOLhyphen"/>perience) not more old then true, <hi>Conſuetude peccandi tollit ſenſum peccati,</hi> The Cuſtome of Sinning taketh away the Senſe of Sinne: Which bad Cuſtome is in nothing more veri<g ref="char:EOLhyphen"/>fied then by the frequent uſe and conſtant pra<g ref="char:EOLhyphen"/>ctice in theſe our dayes of ſome, yea of too many of the weak<g ref="char:EOLhyphen"/>er ſort of the Female Sex, both young and old, principally of the vulgar and ignoble rank, in their Painting and uſual Tinctu<g ref="char:EOLhyphen"/>ring of their Faces with adulterate and counterfeit Colours; who diſliking their own Naturall complexions, which the wiſe God hath given them, thinking that they are not ſo well<g ref="char:EOLhyphen"/>favoured as they deſire to be, pretend by ſuch <hi>Fucus</hi> to make themſelves ſeem more fair and comely then ever God made them; preſerring herein their own artificial Craft and Inven<g ref="char:EOLhyphen"/>tion before the Syncere and uncorrupt Workmanſhip of their
+<pb n="2" facs="tcp:43143:6"/>Creator. And yet they are perſwaded, that they are not blame-worthy herein, for that (as they conceive) ſuch coun<g ref="char:EOLhyphen"/>terfeit Colours do make them more lovely and amiable, and conſequently more reſpected of all ſorts of people with whom they may converſe: For Beauty it ſelf (ſay they, ex<g ref="char:EOLhyphen"/>cluding Pride) is commendable, and as the gift of God ought not to be defamed; and therefore, ſuch Tincture as may ſet forth ſuch Beauty (where it is wanting) without Pride or other ill concommitants may be excuſable, and more eſpecially in them whoſe complexions are foul or otherwiſe faulty, then in ſuch as are otherwiſe fair, comely and well-favoured; ſo that, ſay they, our uſe of Painting our Faces in ſuch caſe (if not approved) is yet more tolerable, then in thoſe whoſe fa<g ref="char:EOLhyphen"/>vours and complexions are naturally comely and amicable. But although this Pride and folly (from whence this bad Cu<g ref="char:EOLhyphen"/>ſtome of Painting Faces proceedeth) be coudemned by the Holy Fathers of the Primitive Church, and by other ſober and learned Writers ſeverally, as an impudent and wicked practice, offenſive to God and man; yet ſuch is their Impudence or Ig<g ref="char:EOLhyphen"/>norance, as that they prefer their own private opinion; in ſuch caſes before all the ſolid and invincible Reaſons and Ar<g ref="char:EOLhyphen"/>guments of thoſe pious and learned men to the contrary; and ſo confident and reſolute are they in the lawfulneſs (as they ſuppoſe) of their actions, and ſo far from liſtening to, or en<g ref="char:EOLhyphen"/>tertaining any good Counſel or Inſtruction of wiſe and ſober men that croſſeth their humours, as that they will rather pre<g ref="char:EOLhyphen"/>ſume to teach their Teachers, and cenſure them of Ignorance, then ſubmit unto their advice; even like unto ſome Subjects, who cenſure the Lawes under which they live, if they be not according to their minds, as unjuſt Lawes: And albeit they cannot but perceive, that their counterfeit Painting and adul<g ref="char:EOLhyphen"/>terate Complexions be unpleaſing to all good people; yet ſuch is their Impudence, as that they are not aſhamed thereof, and to bluſh thereat is in vain; for that Symptom of Mode<g ref="char:EOLhyphen"/>ſty being hidden by their Paiuting is inviſible. But leaving theſe painted Chamaeleons to themſelves, I ſhall proceed with another ſort of disfigured Faces of a later growth, who differ onely in their colours, and in their kinds of <hi>Fucus,</hi> and in the
+<pb n="3" facs="tcp:43143:6"/>application of them to their Faces; in all other reſpects, like <hi>Samſon</hi>'s Foxes, they agree together, and at theſe later ones, as the moſt fooliſh and pernicious, the main ſcope of this my diſcourſe doth principally aim: To begin with them there<g ref="char:EOLhyphen"/>fore, liſten to the Miracle.</p>
+            <p>THERE is now of late in this brazen-fac'd Age of ours, ſtar<g ref="char:EOLhyphen"/>ted up a fooliſh fantaſtical Generation of young Laſſes (yea of ſome old Crones alſo) who having good complexions of their own, out of an Apiſh humour of following all Faſhions (though never ſo ridiculous) without regard of their own Cre<g ref="char:EOLhyphen"/>dit, or of the good Advice or Counſel of the moſt ſober and diſcreet ſort of people, under pretence of making themſelves more lovely then God hath made them, fooliſhly blemiſh and deform their otherwiſe comely viſages, with uncomely and loathſome Black Spots and Patches; the ugly looks whereof although they cannot chuſe but perceive, yet ſo blind and ſtupid &amp; ſo obſtinate are they, as that nevertheleſs they account them and ſo term them <hi>Beauty Spots;</hi> And whereas we might ſuppoſe, that common ſenſe, when they behold with their eye in a looking-glaſs the loath ſomneſs of ſuch black Spots and Patches, might move them to abhor and deteſt them, and to be aſhamed to uſe them, they are ſo far from acknowleding their Errour, as they impudently maintain it, and tell them that reprove them, and who wonder at their folly, that they are in an Errour who make this a Wonder, which, ſay they, is none at all; confidently affirming, that this their Device (or rather Vice) is not onely Blameleſs, but Commendable.</p>
+            <p>Theſe pretty Things think themſelves witty in the uſe of this new Art of Spotting and Patching fair Faces, which, ſay they (to their own ſhame be it ſpoken) is a rare Invention of their own, unheard-of &amp;unknown in former Ages, hereby con<g ref="char:EOLhyphen"/>futing the opinion of thoſe who hold, <hi>That nothing is now done, which was not done before,</hi> and that whatſoever is now done, is but <hi>actum agere, To do that which is already done:</hi> But we, ſay they, to our eternal fame (or infamy rather) have diſproved that falſe Tenet, having found out of our ſelves (ſuch is their ſuppoſed ingenuity) a way to ſet forth and illuſtrate the fa<g ref="char:EOLhyphen"/>vours and complexions of Ladies and Gentlewomen (though
+<pb n="4" facs="tcp:43143:7"/>otherwiſe comely and beautiful) by Patching only &amp; ſpeckling their Faces, with Black Spots and Patches, ſeeming perhaps at firſt ſtrange, as all new faſhions are, but afterwards admirable; in ſuch a manner as never yet was known (no nor could ever enter into the heart of any wiſe man to conceive.) Which wor<g ref="char:EOLhyphen"/>thy and laudable Invention, ſay they, we are now ready and able to juſtifie: For where, we pray you, ſay they, is the blame? Is it in the Colour, Deformity, or Unlawfulneſs of it? But no fault can be found with the colour it ſelf that we uſe, which is Black; for that colour is without offence uſually worn by the better ſort and degrees of men, by Divines, Phyſicians, Law<g ref="char:EOLhyphen"/>yers, chief Magiſtrates and Citizens, (though not in their Fa<g ref="char:EOLhyphen"/>ces) in their uſual garments; it is their ordinary habit, and by all ſorts of people likewiſe, of any quality, in their Mourning weeds; and if that colour be tolerable in them (as it cannot be denied to be) why not likewiſe in us, the uſe thereof and our intent therein being not through pride or wantonneſs to make our faces ſeem the more fair and beautiful, to allure and deceive the beholders, but onely (as we conccive) to ſet a more luſtre and grace upon them; for our viſages being of themſelves fair and white, and not wholly hidden or covered by the Spots or black Patches we affix on them, by applying thoſe black colours, and intermixing them with our fair skins, we make them the more lovely and commendable; for the old Maxime is, <hi>Contraria inter ſe poſita magis illuceſcunt,</hi> Con<g ref="char:EOLhyphen"/>traries placed near one to another do the more illuſtrate themſelves; which indeed may be granted to be true in this ſenſe, <hi>Black Spots in white Faces make their uglineſs more appear.</hi> Again, ſay they, this kind of painting or ſpotting of our Skins is no novell cuſtome, for that many hundred years paſt, before Chriſtian Religion was profeſſed in theſe our Native Countreys, the ancient Britains and Picts, men and women, who here inhabited, uſed this Art of Painting and Spotting their outward skins, and thought it no blemiſh or diſgrace to their perſons; and therefore, ſay they, we do no more herein then what we derive by ancient cuſtom from our Anceſtors: But herein I muſt tell theſe Hiſtorians, they are deceived in their application of the Painting and Tincture uſed by theſe war<g ref="char:EOLhyphen"/>like
+<pb n="5" facs="tcp:43143:7"/>Nations of old, unto their now painting and ſpotting of their Faces; for the ancient Hiſtories will tell them, that the uſe which thoſe Heathen Britains and Picts (of whom <hi>Julius Caeſar</hi> among others makes mention) made of ſuch painting and figuring of their Bodies, was not out of any Pride or Wan<g ref="char:EOLhyphen"/>tonneſs to allure others to love or admire them, as theſe our Mag-pies now do, but rather to make them look more terrible in the Wars, as <hi>Caeſar</hi> conceived; For the cuſtome of the old Britains and Picts in thoſe times was (as <hi>Tacitus</hi> and venera<g ref="char:EOLhyphen"/>ble <hi>Bede</hi> obſerve) that they made no difference of ſex for the Soveraign command, yea and they uſed to war under the con<g ref="char:EOLhyphen"/>duct of women; and this we may find to be ſo by the exam<g ref="char:EOLhyphen"/>ple of <hi>Buiduica</hi> Queen of the <hi>Iceni,</hi> a noble Britiſh Lady of thoſe times, who like another <hi>Pentheſilea furens,</hi> dreaded not to encounter the valiant Romans with an Army of 230000. Bri<g ref="char:EOLhyphen"/>tains, having before ſlain of the Romans 70000. in the City of <hi>Verulam:</hi> And theſe undaunted Viragoes are uſually pictured as well as the men in their war-like habits, who alſo uſed to paint themſelves with the heads of Tygers, Griffins, and ſuch other fierce Beaſts, as the men did, to ſtrike a terrour alſo into their enemies, for to make themſelves ſeem fair had been ra<g ref="char:EOLhyphen"/>ther to encourage then affright them; The Virgins alſo did onely paint themſelves, not for terrour, but for pleaſure, with green herbs and pleaſant flowers to adorn them, not with black Spots to deform them. Again, ſay they, this uſe or art of Spot<g ref="char:EOLhyphen"/>ting &amp; Patching of Faces is not generally taken up by all ſorts of women only, (&amp; ſo is no Epidemical diſeaſe) but is reſerved onely for the better ſort, as of Ladies and Gentlewomen, for di<g ref="char:EOLhyphen"/>ſtinction ſake; for we hold it unfitting, ſay they, that ever Kit<g ref="char:EOLhyphen"/>chin-ſtuff wench, or the like, ſhould preſume to uſe ſuch Fucus and Tincture as others of greater rank &amp;quality appropriate to themſelves; for if ſuch mean people might be tolerated to uſe ſuch faſhions as their betters uſe, there would then be no difference between any degrees of perſons whatſoever: But this argument is frivolous to excuſe themſelves, and blown off with this other Maxime, <hi>Omne animi vitium tanto conspectius in ſe crimen habet, quanto major qui peccat, habetur,</hi> The greater that the perſon be, His fault more clearly we may ſee: But if this faſhi<g ref="char:EOLhyphen"/>on
+<pb n="6" facs="tcp:43143:8"/>of ſpotting and patching be comely (and not too coſtly) why is it more tolerable in a Gentlewoman then in a Kitchin<g ref="char:EOLhyphen"/>ſtuff wench? I ſee no reaſon; But albeit that this kind of black-ſpotting and patching of Faces he not commendable, yet we muſt grant, that in ſome ſort it may prove availeable and advantageous unto them, namely, that when they have a deſire to go unto any Brothel-houſes, or other infamous pla<g ref="char:EOLhyphen"/>ces, theſe Anticks may with theſe diſguiſed Faces and disfi<g ref="char:EOLhyphen"/>gured favours more freely and ſecurely proſtitute themſelves and take their pleaſure, unknown and undiſcovered, deſiring perhaps that their Names and Qualities might for their repu<g ref="char:EOLhyphen"/>tation (though it be little) be concealed. And this priviledge alſo they may peradventure ſay, jeſtingly, that they may enjoy hereafter, to wit, that when their appearance ſhall be, after their life ended in another world, before their black Prince (being conſcious to themſelves that he is to be their Soveraign, whom they have chiefly obeyed in this world) they may be taken for his Natural children, they ſo much reſembling him in their black hue; and thereby to their comfort may be the more fa<g ref="char:EOLhyphen"/>voured, as the Devils darlings; If that be their expectation and reward in earneſt or in jeſt (and ſuch it may be in good earneſt, they having little or no Religion) I ſay no more; but let them, as they like it, enjoy it; I will not envy them this priviledge, this happineſs.</p>
+            <p>They may perhaps ſay alſo to me, Now, Sir, you take your ſelf by the noſe;<note place="margin">Turpe eſt docto<g ref="char:EOLhyphen"/>ri cum culpa redarguit ip<g ref="char:EOLhyphen"/>ſum.</note> For why do you condemn us ſo much for ſpotting our faces with black, when as you your ſelf in this your own writing, ſpot your white paper with black ſpots or letters? and why may not we in like manner ſpot our white fa<g ref="char:EOLhyphen"/>ces with black ſpots? If it be ugly in us, then by the ſame reaſon your writing is alſo ugly. To this I anſwer; the ap<g ref="char:EOLhyphen"/>plication makes the difference, for,
+<q>
+                  <l>If your ſpots to no worſe uſe then ours were apply'd,</l>
+                  <l>I know not why by any man your ſpots ſhould be deny'd:</l>
+               </q>
+            </p>
+            <p>Moreover, ſay they, This ſpotting of Faces which you thus cenſure, is not juſtified by our ſelves alone, but we can pro<g ref="char:EOLhyphen"/>duce
+<pb n="7" facs="tcp:43143:8"/>the approbation thereof by great Scholars and learned Clerks: For inſtance, <hi>Leſſius,</hi> a learned Jeſuit, thus writeth thereof,<note n="(a)" place="margin">Leſſius de juſtitia &amp; jure, <hi>l. 4. c. 4.</hi>
+               </note> 
+               <hi>Si Maritus jubeat, ut uxor inter alias magis decora appareat, ſine peccato utatur, If the husband,</hi> ſaith he, <hi>commands his wife to appear among other wives more comely, this painting of the Face</hi> (for that he ſpeaks of) <hi>may be uſed without ſinne;</hi> And <note n="(b)" place="margin">Pet. Alagora compend. Ma<g ref="char:EOLhyphen"/>nual. Navar. <hi>c. 23. Num. 2?</hi>
+               </note> 
+               <hi>Petrus Alagora</hi> ſaith alſo, <hi>Fingere majorem pulchritudinem ornatu &amp; fuco, licet ſit mendacium operis, non eſt peccatum mortale, To counterfeit a greater Beauty in adorning and painting the Face, although it be a diſſembling work, yet it is no mortall ſinne.</hi> So theſe Jeſuits. But theſe teſtimonies will not juſtifie their do<g ref="char:EOLhyphen"/>ings; for if the action be unlawful, howſoever it may be countenanced in ſome ſort by the approbation of ſome learn<g ref="char:EOLhyphen"/>ed men, it cannot be therefore abſolutely juſtified; eſpecial<g ref="char:EOLhyphen"/>ly when as others more learned then they ſhall be found to be of another opinion; and therefore I think, that if they deſire the ſtate of the Queſtion to be decided by indifferent Judges, they ſhould make choice of ſuch, againſt whom no juſt exce<g ref="char:EOLhyphen"/>ptions can be taken, who without partiality have delivered their opinions in this caſe, ſuch as are the ancient Orthodox Fathers of the Primitive Church, and other learned Divines, and ſound Expoſitors of the Sacred Scriptures, whoſe teſtimo<g ref="char:EOLhyphen"/>nies in this behalf I ſhall afterwards produce: I ſay their ſo<g ref="char:EOLhyphen"/>lid judgements and determinations are rather to be relied upon then the private opinions of ſome few others, who may per<g ref="char:EOLhyphen"/>haps not rightly apprehend the true ſtate of the Caſe, and therein be deceived: But they perhaps will ſay, that theſe teſtimonies of the ancient Fathers and other learned Writers againſt painted Faces concern their ſpotted Faces not at all, for that the diſlike which thoſe learned men had of painted Faces was, for that by painting their Faces all over they did not onely totally transfigure and hide their true Naturall complexions, but by the ruddy and beautifull colours and tin<g ref="char:EOLhyphen"/>ctures did allure and intice young men to lewdneſs, pretend<g ref="char:EOLhyphen"/>ing thoſe counterfeit Faces to be their Natural complexions; but we, ſay they, who mark our Faces with black Spots and Patches, have no ſuch intent to deceive or allure any young Gallants to lewdneſs or diſhoneſty, for that our faces and com<g ref="char:EOLhyphen"/>plexions
+<pb n="8" facs="tcp:43143:9"/>are not in ſuch manner covered or hid with our Spots and Patches, but that our Natural complexions may eaſily be diſcerned; and therefore thoſe teſtimonies are unjuſtly pro<g ref="char:EOLhyphen"/>duced againſt us: And if we ſhould admit, ſay they, that we were alſo concerned therein, yet their teſtimonies, as we con<g ref="char:EOLhyphen"/>ceive, are not ſo much to be credited in this caſe; for that thoſe good old Fathers were unacquainted with the nature and condition of theſe youthfull delights, and therefore might therein be deceived; and therefore, ſay they, thoſe teſtimo<g ref="char:EOLhyphen"/>nies are miſapplied to us, and as unvalid, not to be much re<g ref="char:EOLhyphen"/>garded: Hereunto I anſwer, Thoſe teſtimonies of thoſe Or<g ref="char:EOLhyphen"/>thodox Fathers, and other pious and learned men before all ed<g ref="char:EOLhyphen"/>ged, againſt painting the Faces and counterfeiting the Com<g ref="char:EOLhyphen"/>plexions of Ladies and other Gentlewomen in their times, are and may be alſo properly applied to the ſpotting and patch<g ref="char:EOLhyphen"/>ing of Faces uſed by the like Ladies and Gentlewomen now in our dayes, though ſuch ſpotting and patching be not named, which was then unknown, as being not then uſed, yet by in<g ref="char:EOLhyphen"/>ference theſe are as much concerned therein as the other; for if we conſider what was the principal cauſe that moved them then to diſtaſte ſuch painting and tincture of Faces as they write againſt, we ſhall find it chiefly to be, the counterfeiting, altering and disfiguring of their own Naturall favours with ſuch adulterate tinctures, and their folly and laſciviouſneſs, lewdneſſe and diſhoneſty many times accompanying the ſame: If ſo, doth not then ſpotting and patching of Faces now uſed concur with ſuch painting of Faces in the ſame reſpects? Are not their complexions quite altered from what they were be<g ref="char:EOLhyphen"/>fore? are not theſe as fooliſh, proud, laſcivious, and oft<g ref="char:EOLhyphen"/>times lewd and diſhoneſt as the others? It cannot be denied; yea this ſpotted Generation deſerves more to be blarned and cenſured then thoſe of the painted ſort, for that thoſe that painted themſelves, having for the moſt part hard favours, aimed chiefly to correct their deformi<g ref="char:EOLhyphen"/>ties, in ſetting themſelves out in ſuch lovely and beau<g ref="char:EOLhyphen"/>tifull colours; but theſe ſpotted Ladies having uſually fair and comely viſages naturally, have no need to correct them; but yet becauſe they would be doing ſomething, they deform
+<pb n="9" facs="tcp:43143:9"/>their natural beauty with their ugly ſpots and patches, without any reaſon or any advantage to themſelves from thence ac<g ref="char:EOLhyphen"/>crewing, making themſelves foul to ſeem fair; a ſtrong Pa<g ref="char:EOLhyphen"/>radox, more ſuitable to the condition of a Bedlam then of any rationall creature: Therefore ſuch irrationall Animals deſerve rather to be ſent to the <hi>Anticyra</hi> to gather <hi>Hellebore</hi> to recover their wits, then to be confuted with reaſon, of which they are uncapable; ſo that the cenſure ſo as above pronounced againſt painted Faces by ſuch pious and learned men may fitly be applied to ſpotted Faces, as well as to painted: And the judgement of theſe holy and learned men (as is fooliſhly ſuppoſed) cannot be juſtly queſtioned, in reſpect of their Old years, or Religious life, but for thoſe cauſes to be the more approved; for long Experience gaineth Knowledge, and what pleaſeth or diſpleaſeth God is beſt known to godly men; ſo that Objection is frivolous. To proceed with their Objections:</p>
+            <p>They may perhaps ſay, There is no Law of God forbids painting or ſpotting of Faces, therefore it may lawfully be uſed, there being no ſin in it, and not being prohibited either by the Law of God or man, why may it not without offence be uſed? I anſwer, That painting of Faces is cenſured and condemned in the holy Scriptures, if not in expreſs words, yet implicitely, and by neceſſary conſequence; for firſt, ſuch painting and disfiguring of that naturall favour, which God hath made, by falſe and adulterate tinctures and colours, doth proceed either from fooliſh pride of the heart, which is a ſin, or from ſome laſcivious and wanton humour, againſt the Precept of the Almighty, that requires holineſs and chaſtity, and pro<g ref="char:EOLhyphen"/>hibits all Fornication and Adultery, even in the thought of the heart; from which thought theſe creatures can hardly be free, for that a principal cauſe of their painting and ſpotting is to make themſelves (in their opinion) ſeem fair or comely in the eyes of young Gallants abroad, or at home, for otherwiſe there would be no uſe of their ſpotting, if none but themſelves beheld it; and they muſt needs be proud thereof in thinking themſelves to be ſo admirably beautifull or comely above others by theſe impoſtures: And it is alſo ſcandalous and of
+<pb n="10" facs="tcp:43143:10"/>evil report, being offenſive to all ſober and diſcreet people, who beholding their vanity cannot chuſe but be jealous of their integrity, and all things of this nature offenſive to others (if as they would have them, they are things in their own nature indifferent) are prohibited by Gods Word, as tending to the breach of Chriſtian Peace and Charity. Moreover, we read in the ſecond Book of <hi>Kings,</hi>
+               <note place="margin">Qu. <hi>Jezebel.</hi> 2 Kings 9.30.</note> ch. 9. v. 30. That <hi>Jezebel,</hi> that wicked Queen, painted her face and eyes with <hi>Stibium,</hi> (or ſome other <hi>Fucus</hi>) after which her painting ſhe was eaten up with Dogs, and that by Gods juſt judgement, ſaith Archbi<g ref="char:EOLhyphen"/>ſhop <hi>
+                  <g ref="char:V">Ʋ</g>ſhor</hi> in his large Catechiſm upon the Seventh Comman<g ref="char:EOLhyphen"/>dement:<note place="margin">Cyprian de oper. &amp; eleemoſynz.</note> And St. <hi>Cyprian</hi> alluding hereunto thus writeth, <hi>Inunge oculos tues non Stibio Diabolico, ſed collyrio Chriſts, Anoint thine eyes not with Diabolicall Stibium, but with the eye-ſalve of Chriſt.</hi>
+               <note place="margin">Ezek. 23.40. Jetem. 4.30.</note> So alſo <hi>Ezek.</hi> 23.40. and <hi>Jeremiah</hi> 4.30. where Painting is numbered among other proud Ornaments and Dreſſings, and therefore not approved; ſo you ſee the uſe of Painting is not exempt from cenſure in the holy Scri<g ref="char:EOLhyphen"/>ptures.</p>
+            <p>Now to prove ſpotting and patching of Fair Faces to be deformed, they aſſume themſelves to be Judges; but they be<g ref="char:EOLhyphen"/>ing themſelves concerned herein, muſt needs be partiall Jud<g ref="char:EOLhyphen"/>ges, and therefore the deciſion hereof reſteth in the judgement of others more indifferent; And who is there old or young that beholding their ſported and patched faces (eſpecially having before ſeen their fair naturall complexions) but will adjudge them deformed, being ſo ſpeckled with ſuch black and loath<g ref="char:EOLhyphen"/>ſome Spots and Patches? Again, they may perhaps have this wanton conceit in blacking themſelves, that having heard talk of a good Woman compared to a black Swan, they might de<g ref="char:EOLhyphen"/>ſire to make themſelves like to that rare Bird called a Black Swan; if ſo, let them conform their manners as well as their faces to the condition of ſuch a woman as is compared to a black Swan, which is a rare, Bird, as the Poet ſaith,
+<q>Rara avis in terris, nigroque ſimillima cygno;</q>
+            </p>
+            <p>A rare Bird in the world, moſt like to a black Swan: And ſo they may make recompence for their Deformity.</p>
+            <p>Moreover they will ſay, What do we more in altering or
+<pb n="11" facs="tcp:43143:10"/>counterfeiting our naturall complexions, by painting and ſpot<g ref="char:EOLhyphen"/>ting our Faces, then Dyers doe, in dying white Silk, Wooll, or Thred into any other colour? This is uſuall and lawfull, without derogation to God's workmanſhip, why may not we then do the like, to pleaſe our ſelves in mending our defects? I anſwer, The Dyers intent in dying white or other naturall colours into other colours, makes the difference between you and them; for their intent is onely for a civil and lawfull re<g ref="char:EOLhyphen"/>ſpect to dye their commodities into ſeverall colours for the uſe of ſuch as may deſire them, who likewiſe wear them with<g ref="char:EOLhyphen"/>out pride or wantonneſſe, as comely and decent colours; but your intent of painting and ſpotting your faces is not out of any civil or decent reſpect, but out of the fooliſh pride and fantaſtical opinion of handſomneſſe (whatſoever you pretend) to pleaſe your Paramours, and from your laſcivious and wan<g ref="char:EOLhyphen"/>ton diſpoſitions thereupon following, and for neceſſary uſe, benefit or advantage which may accrew from thence, and which is diſpleaſing to all ſober and diſcreet men: All which qualities being not in dying, your compariſon will not hold. Yet I grant that there may be perhaps ſome more moderate women of the more noble rank, who may uſe ſuch painting or ſpotting their faces, not out of any proud or laſcivious diſpo<g ref="char:EOLhyphen"/>ſition, which they abhor, but onely to follow the faſhions of the times in imitation of others, and for no other reſpect; and theſe, although they are not ſo much to be blamed as the others, yet are they not wholly to be excuſed, for the danger of infection of others, by their example; who perceiving wo<g ref="char:EOLhyphen"/>men of worth and of civil converſation without pride or wan<g ref="char:EOLhyphen"/>tonneſſe to uſe it in imitation of them, uſing it heedleſly, may be drawn laſciviouſly to abuſe it, adding ſin unto folly; and therefore ſuch alſo ſhould be wary in the uſing of it: but my invective is not againſt the infirmity of ſuch virtuous La<g ref="char:EOLhyphen"/>dies, but againſt the impudent onely.</p>
+            <p>Now howſoever to correct or cure any deformity or ble<g ref="char:EOLhyphen"/>miſh in Nature by lawfull means, not accompanied with ſin<g ref="char:EOLhyphen"/>full actions, is tolerable; yet the deforming and defacing of comely and handſome naturall fair faces with unneceſſary and undecent Tincture, Spots and Patches, is intolerable; ſo the
+<pb n="12" facs="tcp:43143:11"/>evil proceeding from painting and ſpotting comely viſages, is the chief thing to be avoyded, and is principally condem<g ref="char:EOLhyphen"/>ned.</p>
+            <p>They will ſay, peradventure, that they thus paint or ſpot themſelves to be the better eſteemed of others; I partly be<g ref="char:EOLhyphen"/>lieve them, that their intent is chiefly to pleaſe others, and in pleaſing them to enjoy more freely their laſcivious embrace<g ref="char:EOLhyphen"/>ments; and this is very likely; for if they did it not to ſhew themſelves to others, what need they to trouble themſelves privately at home, where none take notice of their bravery? And they that ſeek to pleaſe others by altering their owne complexions do firſt diſlike themſelves; for had they not diſ<g ref="char:EOLhyphen"/>liked themſelves, they would not have ſought to amend that which they could not diſlike: But what madneſſe is it, ſaith an ancient Father, to change Nature's ſhape, and to ſeek a Picture? doubtleſſe thou deſerveſt to be loathed of others, becauſe thou doſt loath thy ſelf, and being diſpleaſed with the pleaſure of God, doſt pleaſe thy ſelf in that that is diſpleaſing to him.</p>
+            <p>Having now done with their Allegations in defence of their painting and ſpotting the faces, I ſhall for a more full confu<g ref="char:EOLhyphen"/>tation of theſe vanities proceed in my diſcourſe as followeth; And firſt, touching the colour of black, which they ſo much extoll above others.</p>
+            <p>Albeit I grant the colour of Black in it ſelf be not condern<g ref="char:EOLhyphen"/>ned, unleſſe abuſed, yet in all reſpects it is not ſo highly to be magnified as to be preferred before all others, as an Ornament to ſet out the luſtre and beauty of fair Ladies; and no leſſe are Spot, and Patches in their viſages, in all reſpects, to be eſtee<g ref="char:EOLhyphen"/>med; for example ſake, Death it ſelf (more terrible then any thing elſe) hath the Epithite of <hi>Atra Mors,</hi> black Death; Conjurers, the Devils prime Agents here on earth, are called <hi>Necromancers,</hi> and their art <hi>Necromancy,</hi> that is, the <hi>Black Art;</hi> the Progeny of curſed <hi>Cham,</hi> are held to be the <hi>Black-mores;</hi> the moſt dangerous diſeaſe of the <hi>Jaundies</hi> is called <hi>Atra Bilis,</hi> the <hi>Black Jaundies:</hi> and no mercy or pardon is to be expected when the black Flag or Enſign is hung out; yea, the Devil himſelf is called the <hi>Prince of Darkneſſe,</hi> and black <hi>Pluto</hi> hath
+<pb n="13" facs="tcp:43143:11"/>his Palace in a dark Dungeon, and his Family the black Fiends of Hell, unto whom our black-fac'd Girles make themſelves as like as may be, as the old ſaying is, <hi>Like to like, quoth the Devil to the Collier.</hi>
+            </p>
+            <p>Theſe black-patched faces are alſo dreadfull to young chil<g ref="char:EOLhyphen"/>dren, being naturally affrighted at their unnaturall helliſh looks, taking them for Bug-beares, Devils, or Infernall Spi<g ref="char:EOLhyphen"/>rits, having been told, that ſuch Fiends appear in that like<g ref="char:EOLhyphen"/>neſſe; and loathſome they are to thoſe of riper yeares, inſo<g ref="char:EOLhyphen"/>much as their nauſeous ſtomacks are turned (eſpecially at meals) when caſting their eyes on their black Patches, they are put in mind of thoſe filthy ſcabs and purulent ſores, unto which ſuch plaiſters are commonly and properly applied, the noyſome ſmell wereof is oft-times reported to have been ſo offenſive, that for prevention for the future they have found a way by perfuming their Plaiſters and Patches, as I have been informed.</p>
+            <p>And howſoever the black and ſpeckled colours pleaſe them above all others, yet the colour it ſelf is not above all others ſo amiable, as that it ſhould entice them meerly to delight therein; if we will give credit to learned Authors, whoſe Te<g ref="char:EOLhyphen"/>ſtimonies I have collected as followeth.</p>
+            <p>
+               <hi>Anthonius Thyleſius,</hi> a learned Author, thus writeth thereof;<note place="margin">Ant. Thy'eſius de Coloribus. <hi>c. 3.</hi>
+               </note> 
+               <hi>Ater color eſt triſtis, viſu injucundus, lugentibus accommodatus;</hi> Black, faith he, is a ſad colour, unpleaſant to look on, and fit for mourners. And again, <hi>Colores maculoſi ſunt equorum &amp; ca<g ref="char:EOLhyphen"/>num,</hi>
+               <note place="margin">
+                  <hi>Idem.</hi> c. 13.</note> Spotted colours belong to horſes and dogs: (He does not ſay, to fair faces.)</p>
+            <p>
+               <hi>Joannes Imperialis</hi> thus writeth of ſpotted colours,<note place="margin">Imperialis in muſaeo <hi>l. 3. c. 6.</hi>
+               </note> 
+               <hi>Color pu<g ref="char:EOLhyphen"/>rus eſt ſine maculis, quae ingenium non deſignant, quoniam ſunt impu<g ref="char:EOLhyphen"/>ritatis exuſtionum bilis, vel flavae vel atrae ſequentes, ex quibus durus, incredulus, asper, obſtinatus, vipereus fit homo; refert enim vipera<g ref="char:EOLhyphen"/>rum corium hujuſmedi maculis consperſum:</hi> It is a pure colour, ſaith <hi>Imperialis,</hi> which is without ſpots, which ſpots declare no ingenuity, becauſe they are the conſequent impurities of the inflammation of the Yellow or Black Jaundiſe, by which a man becomes hard, incredulous, rough, obſtinate, viperous; for it reſembles the Vipers skin ſpeckled with ſuch ſpots.
+<pb n="14" facs="tcp:43143:12"/>What the nature of a Viper is,<note place="margin">
+                  <hi>S.</hi> Amb. Hexam. To. <hi>1.</hi> l. <hi>5.</hi> c. <hi>1.</hi>
+               </note> you may hear St. <hi>Ambroſe</hi> thus deſcribe. The Viper is a Beaſt, ſaith he, more vile then the vi<g ref="char:EOLhyphen"/>leſt, poyſonous by nature, and ſpiteful, odious to look on and hateful; a ſpotted Serpent it is, ſo poyſonous and deadly, that it cauſeth preſent death to any that it ſeizeth on, as may appear by the Viper which faſtned on St. <hi>Paul</hi> as he was warm<g ref="char:EOLhyphen"/>ing him by the fire in the Iſle of <hi>Malta;</hi> from whoſe danger God miraculouſly delivered him, inſomuch as the barbarous people then ſeeing his marvellous delivery, took St. <hi>Paul</hi> to be a God,<note place="margin">Ambroſ. To. <hi>4.</hi> Hexam. l. <hi>5.</hi> c. <hi>7.</hi>
+               </note> 
+               <hi>Acts</hi> 28.6. St. <hi>Ambroſe</hi> moreover thus writeth of the poyſonous ſpotted Viper: <hi>Viperae os ſiquis calcaverit recens dun<g ref="char:EOLhyphen"/>taxat mortuae, gravius quàm venenum nocere perhibetur, &amp; immedi<g ref="char:EOLhyphen"/>cabile vulnus ſerpere,</hi> If any one ſaith he, ſpurn the mouth of a Viper though newly dead, it is reported to be more dangerous then the poyſon, and that an incurable wound follows there<g ref="char:EOLhyphen"/>upon.</p>
+            <p>Chriſt calls the wicked Jews of his time <hi>a Generation of Vi<g ref="char:EOLhyphen"/>pers, Matth.</hi> 3.7. and 12.34. It ſeems he could not liken them to a worſe creature.</p>
+            <p>Toads alſo, Snakes and other Serpents, and divers ſavage Beaſts, as Leopards, Tygers, Wild-Cats and the like, are partly of a poyſonous, and partly of a fierce and cruel nature and diſpoſition; and all of them ſpeckled like our black-fac'd Ladies, yet they would not be likened to them.</p>
+            <p>
+               <hi>Joſephus Laurentius</hi> in his <hi>Philoſophica,</hi> thus writeth of this black colour:<note place="margin">Juſeph. Lauren<g ref="char:EOLhyphen"/>tius Philoſophi<g ref="char:EOLhyphen"/>ca.</note> 
+               <hi>Rei ſe deturpabant ad miſericordiam captandam,</hi> condemned perſons were wont to foul themſelves (ſpeaking of the black colour) that they might be pityed; ſo it ſeems this was eſteemed a doleful colour of no delight. Again, un<g ref="char:EOLhyphen"/>lucky dayes ſaith <hi>Laurentius,</hi> are called <hi>Atri Dies,</hi> black dayes, and were <hi>Carbone notati,</hi> marked with a biack coal (not doubt<g ref="char:EOLhyphen"/>leſſe for any comelineſſe or beauty in that colour) and fortu<g ref="char:EOLhyphen"/>nate dayes were called <hi>Dies candidi,</hi> white dayes, and marked with <hi>Creta,</hi> white Chalk: If then theſe Black-birds deſire to be fortunate, they ſhould by this Rule make themſelves <hi>Candidae,</hi> and not <hi>Nigrae</hi> or <hi>Atrae,</hi> white ones, not black.</p>
+            <p>Beſides theſe teſtimonies of Learned Writers before pro<g ref="char:EOLhyphen"/>duced touching Spots and black colours, (that nothing may
+<pb n="15" facs="tcp:43143:12"/>be wanting conducible hereunto) hear what the ſacred Scri<g ref="char:EOLhyphen"/>ptures write both concerning Spots, as alſo touching black co<g ref="char:EOLhyphen"/>lours and blackneſſe. And firſt how Spots have generally been taken throughout the Scriptures for faults and deformi<g ref="char:EOLhyphen"/>ties both in the Body and Mind internally and externally; and never mentioned as Ornaments to ſet forth or illuſtrate the inward or outward parts of Man or Woman, to which pur<g ref="char:EOLhyphen"/>poſe our black patched Ladies pretend to uſe them: And then obſerve alſo what formidable Expreſſions the holy Word of God hath left us concerning Blackneſs or Darkneſs, able to de<g ref="char:EOLhyphen"/>ter any from uſing that which repreſents the ſame, in which co<g ref="char:EOLhyphen"/>lour notwithſtanding our ſpotted Ladies do now delight. And firſt to begin with ſuch Texts of the Scripture as write of Spots, and then in order to proceed with the other.</p>
+            <p>That Spots are blemiſhes appears <hi>Numb.</hi> 19.2. in theſe words,<note n="(a)" place="margin">Num. 19.2.</note> 
+               <hi>A red heyfer without ſpot wherein is no blemiſh ſhall be burnt, &amp;c.</hi> And <hi>Numb.</hi> 28.3.<note n="(b)" place="margin">Numb. 28.3.</note> 
+               <hi>Ye ſhall offer unto the Lord two lambs of the firſt year without ſpot.</hi> Again, <hi>Numb.</hi> 28.11.<note n="(c)" place="margin">Numb. 28.11.</note> 
+               <hi>Ye ſhall offer ſeven lambs without ſpot.</hi> And <hi>Numb.</hi> 29.17.<note n="(d)" place="margin">Numb. 29.17.</note> 
+               <hi>Ye ſhall offer fourteen lambs without ſpot.</hi>
+            </p>
+            <p>Ye ſee that in all theſe places of holy Scripture ſpotted Lambs are forbidden to be offered unto the Lord: for no Beaſts were to be offer'd but ſuch as were Immaculate, without ſpot; ſo it ſeems Spots were not then in ſuch requeſt as they are now with our ſpotted Faces.</p>
+            <p>Alſo <hi>Job.</hi> 11.15. <hi>Zophar</hi> ſaid unto <hi>Job,</hi>
+               <note place="margin">Job 11.15.</note> 
+               <hi>Thou ſhalt lift up thy face without ſpot.</hi> Which our now ſpeckled faces cannot do.</p>
+            <p>Alſo <hi>Cantic.</hi> 4.7. <hi>Thou art all fair, my Love,</hi>
+               <note place="margin">Cantic. 4.7.</note> 
+               <hi>there is no ſpot in thee:</hi> ſpeaking of the Church, which ſhould be without ſpot.</p>
+            <p>So <hi>Epheſ.</hi> 5.27. the Church is there termed <hi>A glorious Church,</hi>
+               <note place="margin">Epheſ. 5.17.</note> 
+               <hi>not having ſpot or wrinkle, nor any ſuch thing, but holy and without blemiſh.</hi> So hereby is inferred, That a Spot is a blemiſh.</p>
+            <p>Alſo 1 <hi>Tim.</hi> 6.14. <hi>Keep the Commandment without ſpot, that is,</hi>
+               <note place="margin">1 Tim. 6.14.</note> 
+               <hi>without ſtain or blemiſh.</hi> So let me adviſe our Wantons to keep their faces and fames.</p>
+            <p>Again, <hi>Heb.</hi> 9.14. <hi>Chriſt offered himſelf without ſpot to God.</hi>
+               <note place="margin">Hebr. 9.14.</note> The original Greek word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ſignifies <hi>inculpatum, imma<g ref="char:EOLhyphen"/>culatism, maculae expers,</hi> without fault, immaculate, having no ſpot.</p>
+            <p>
+               <pb n="16" facs="tcp:43143:13"/>
+Alſo 1 <hi>Pet.</hi> 1.19. <hi>Chriſt,</hi>
+               <note place="margin">1 Pet. 1.19.</note> 
+               <hi>a Lamb, without blemiſh and without ſpot.</hi> From hence a Spot may be taken for a Blemiſh.</p>
+            <p>And 2 <hi>Pet.</hi> 2.13. The Apoſtle terms wicked perſons Spots and Blemiſhes.<note place="margin">2 Pet. 2.13.</note>
+            </p>
+            <p>Again,<note place="margin">2 Pet. 3.14.</note> 2 <hi>Pet.</hi> 3.14. The Apoſtle admoniſheth his beloved ones, <hi>That they be found by Chriſt in peace without ſpot or blemiſh;</hi> So that to be ſpotted is blame-worthy.</p>
+            <p>
+               <hi>Jude</hi> alſo in his Epiſtle,<note place="margin">Jude ver. 12.</note> v. 12. ſaith, <hi>Wicked ſeducers are ſpots in the feaſts of charity, feeding themſelves without fear.</hi> Even ſo our ſpotted ones without ſhame or fear frequent Feaſts and Meetings (though of another ſort) but being ſpotted their ſociety ought not to be admitted. Again, the ſame Apoſtle, <hi>Iude</hi> v. 13. compares theſe ſpotted ones to the <hi>raging waves of the Sea,</hi>
+               <note place="margin">Jude ver. 13.</note> foaming out their own ſhame; and unto <hi>wandering starres,</hi> to whom is reſerved <hi>the blackneſſe of darkneſſe for ever;</hi> ſuitable to our now ſpotted faces, haunters of Feaſts, and wan<g ref="char:EOLhyphen"/>derers or gadders from place to place to get cuſtomers.</p>
+            <p>Thus much concerning Spots ſpirituall and corporall out of the holy Scriptures. Now you ſhall hear next what we have collected out of the ſame Sacred written Word concerning <hi>blackneſſe</hi> or <hi>darkneſſe,</hi> and the black colour correſpondent thereunto, as followeth;</p>
+            <p>
+               <hi>Iob</hi> 3. v. 4,<note place="margin">Job cap. 3. ver. 4, 5, 6.</note> 5, 6. The holy man <hi>Iob</hi> being terribly afflicted by the permiſſion of God, for triall of his integrity, uſeth theſe execrations, <hi>Let the day periſh wherein I was born, &amp;c. Let that day,</hi> ſaith he, <hi>be darkneſſe, let not God regard it from above, neither let the light ſhine upon it; let darkneſſe and the ſhadoow of death ſtain it, let a cloud dwell upon it; let the blackneſſe of the day terrifie it, and for that night let darkneſſe ſeize vpon it, &amp;c.</hi>
+            </p>
+            <p>Here you ſee how holy <hi>Iob</hi> in his anguiſh and terrible grief wiſneth this <hi>darkneſſe</hi> or <hi>blackneſſe</hi> to be ſent by God on the earth, ſo that the day of his birth had never been: And there<g ref="char:EOLhyphen"/>fore no ſuch colour of Black can be from hence deſired, but rather deteſted.</p>
+            <p>Again,<note place="margin">Job 30.30.</note> this holy man <hi>Job,</hi> in his lamentable affliction, cry<g ref="char:EOLhyphen"/>eth out thus, <hi>My skin,</hi> ſaith he, <hi>is black upon me, and my bines are burnt with heat.</hi> Our fooliſh black-patch Girles may here obſerve how holy <hi>Job</hi> crieth out of the <hi>blackneſſe of his skin,</hi> as
+<pb n="17" facs="tcp:43143:13"/>one of his puniſhments, and yet they think that their black fa<g ref="char:EOLhyphen"/>ces are an ornament to them; but let them learn of <hi>Job</hi> how to eſteem it rightly.</p>
+            <p>
+               <hi>Iſaiah</hi> 5.3. The Prophet here ſaith,<note place="margin">Iſaiah 5.3.</note> 
+               <hi>God cloatheth the heavens with blackneſſe.</hi> Here notice is to be taken, That <hi>blackneſſe of the heavens</hi> is here ſet down as a Puniſhment, not as a Bleſſing from Almighty God; and therefore ſuch reſemblances ought rather to terrifie then to delight us.</p>
+            <p>Cant. 1.5, 6. <hi>I am black, but comely.</hi>
+               <note place="margin">Cant. 1.5, 6.</note> Here the Church of Chriſt calls her ſelf <hi>black,</hi> not (as ſome may think) for any comelineſſe in that colour, for Black is there diſtinguiſhed from Comely in theſe very words, <hi>I am black, but comely;</hi> but ſhe calls her ſelf Black, becauſe ſhe was brought into ſuch a ſorrowful and doleful condition by the tribulations and affli<g ref="char:EOLhyphen"/>ctions ſhe lay under by her perſecutors, who obſcured &amp; deni<g ref="char:EOLhyphen"/>grated her glory and renown, and made her as it were ſeem black and contemptible, (for ſo learned Expoſitors interpret it) and therefore confeſſing her deformity, ſignified by her black colour, ſhe willeth her flock, v. 6. not to look upon her; <hi>Look not upon me,</hi> ſaith ſhe, <hi>becauſe I am black,</hi> meaning defor<g ref="char:EOLhyphen"/>med outwardly (accounting externall Black a deformity) but internally comely. Let our black-ſpotted faces then, whoſe viſages are not made black againſt their wills (as the Churches was) but who voluntarily black themſelves, conſider that they are not, and ought not to be honoured or eſteemed for their black faces, but rather to be eſteemed as deformed, and there<g ref="char:EOLhyphen"/>fore ought to forbear ſo to disfigure themſelves, and likewiſe to perſwade others (as the Church here doth) not to behold them; for the Church here, as is expounded by the Text, con<g ref="char:EOLhyphen"/>feſſeth her deformity in being black, oppreſſed and dejected by her perſecutors,</p>
+            <p>
+               <hi>Jerem.</hi> 4.28. The Prophet ſaith,<note place="margin">Jerem. 4.28.</note> That God for the ſins of his people, among other his heavy judgements denounced againſt them, <hi>That the heavens above ſhould be black;</hi> whereby it appears that Black is a dreadfull colour, and yet our wantons are in love therewith.</p>
+            <p>Again, <hi>Jerem.</hi> 8.3. The Prophet ſaith,<note place="margin">Jerem. 8.3.</note> 
+               <hi>For the hurt of the daughter of my people I am hurt, I am black.</hi> Here to be black,
+<pb n="18" facs="tcp:43143:14"/>is to be afflicted, not to be deſired, as our black ones would have it.</p>
+            <p>
+               <hi>Jerem.</hi> 14.2. <hi>Iudah mourneth,</hi>
+               <note place="margin">Jer. 14.2.</note> 
+               <hi>the gates thereof languiſh, they are black unto the ground.</hi> Here blackneſs noteth the ſad condition of the people in a great Famine; no pattern for our Black<g ref="char:EOLhyphen"/>birds to cheer up themſelves with their colours.</p>
+            <p>
+               <hi>Lam.</hi> 4.18. <hi>Sion</hi> bewailing her pitiful eſtate,<note place="margin">Lam. 4.18.</note> thus bewaileth them, <hi>Their viſage is blacker then a coale,</hi> or, according to the Hebrew, <hi>darker then blackneſs;</hi> ſo then black viſages are ſent as a judgement of Gods wrath, not as an ornament.</p>
+            <p>
+               <hi>Lam.</hi> 5.10. <hi>Sion</hi> in her Prayer to God,<note place="margin">Lam. 5.10.</note> ſaith, <hi>Our skin was black like an oven, becauſe of the terrible famine.</hi> Our black ones would be loath their skins ſhould be compared to an Oven, or be a ſigne of Famine; they like Feaſting better then Fa<g ref="char:EOLhyphen"/>ſting.</p>
+            <p>
+               <hi>Zeeh.</hi> 6.2. Mention is is there made of a Viſion,<note place="margin">Zech. 6.2.</note> wherein was a Chariot of black Horſes; haply our black Wenches (if they uſe to read the Bible) from this place took their pattern of their Coach and black Horſes pictured in their faces.</p>
+            <p>
+               <hi>Ioel</hi> 2.6. <hi>All faces ſhall gather blackneſſe,</hi>
+               <note place="margin">Joel 2.6.</note> or, as <hi>Pagnin</hi> out of the Hebrew interprets it, <hi>blackneſſe</hi> as a <hi>pot.</hi> This is denoun<g ref="char:EOLhyphen"/>ced as one of Gods terrible judgements; at which though ſome of our black ones are not troubled, yet it would trouble them more to have theit black Faces compared to a black Pot, a word of diſgrace.</p>
+            <p>
+               <hi>Nah.</hi> 2.10. The Prophet there ſhewing what judgments were pronounced againſt the great city of <hi>Nineveh;</hi>
+               <note place="margin">Nah. 2.10.</note> among others ſaith, <hi>The faces of them all gather blackneſſe.</hi> Here obſerve, that black faces are mentioned among Gods puniſhments; ſo then to be dreaded, not beloved.</p>
+            <p>Laſtly,<note place="margin">Rev. 7.17.</note> 
+               <hi>Rev.</hi> 7.17. <hi>A multitude of all nations not to be numbred stood before the throne, and before the lamb, cloathed in white robes:</hi> So if our black Ladies expect to appear before the Throne of God in Heaven, it muſt not be in black, but in white robes.</p>
+            <p>
+               <hi>Rev.</hi> 6.13. <hi>The Sun became black,</hi>
+               <note place="margin">Rev. 6.12.</note> 
+               <hi>which was in the great day of Gods wrath.</hi> Note that this was a dreadfull ſigne of Gods
+<pb n="19" facs="tcp:43143:14"/>diſpleaſure, ſet forth under the colour of Black.</p>
+            <p>By theſe places of the holy Scriptures we may learn, that black colours and blackneſs it ſelf oft-times have been hideous ſigns and tokens of Gods heavy diſpleaſure, and therefore not alwayes without exception are they generally to be approved or commended, nor fit in ſuch reſpect to be imitated, but ra<g ref="char:EOLhyphen"/>ther to be dreaded, ſo often as we call to remembrance the terrible effects of ſuch dreadful colours: yet I grant, that black colours uſed civilly in many other things, not abuſed or miſ-applied, are not onely tolerable, but commendable al<g ref="char:EOLhyphen"/>ſo, and uſefull, and may be uſed without offence, without diſ<g ref="char:EOLhyphen"/>grace, as black haire, and a black eye in man or woman, is a lively and graceful colour; from whence I gueſs, that once il<g ref="char:EOLhyphen"/>luſtrious and famous <hi>Prince of Wales, Edward,</hi> Son and Heir of King <hi>Edward the third,</hi> was called <hi>The Black Prince,</hi> a name of no diſparagement, but rather of terrour to his ene<g ref="char:EOLhyphen"/>mies, of which the French were ſenſible: black Garments worn uſually by Divines, Phyſicians, Lawyers, Citizens and Mourners (as above) being the moſt proper colour for the moſt ſober and civil ſort of men; a black colour in painting Walls, Houſes, or Tables, or in any curious Works weaved, or of Needle-work, mixt or checquer'd with other colours for variety-ſake, oft-times adorneth and ſetteth forth the work; and all black colours in Beaſts, Fowl, or other living crea<g ref="char:EOLhyphen"/>tures, being natural, are in their kinds commendable, being ſuch as God hath ordained for them; likewiſe the natural black complexions of Black-Moors is more reſpected by them then the White, for the abuſe and not the good uſe of colours is condemned; for colours fitly applied is a grace, and unfit<g ref="char:EOLhyphen"/>ly applied turn to the diſgrace of the ſubject, unto which they are applied; even as black Patches alſo being applied to the face to cover and cure ſcabs and ſores, are very uſefull and to<g ref="char:EOLhyphen"/>lerable; but otherwiſe worn, as an ornament to the face, are uſeleſs and diſgraceful; but the painting, ſpotting and pat<g ref="char:EOLhyphen"/>ching of faces is the deforming of comely faces and good complexions, which is here juſtly reprehended, and cannot be excuſed, notwithſtanding any fooliſh faſhion which apiſhly they imitate, which being undecent, ought to be out of faſhi<g ref="char:EOLhyphen"/>on,
+<pb n="20" facs="tcp:43143:15"/>when it makes the wearers thereof to be of no good faſhi<g ref="char:EOLhyphen"/>on; ſo that Black is not here cenſured, but the disfiguring of Gods Image by Black.</p>
+            <p>But the folly and vanity of theſe uncouth faſhions is not onely to be cenſured as ridiculous, ugly and nauſeous, but the pride, laſciviouſneſs, and other vices that accompany their im<g ref="char:EOLhyphen"/>pudence, wherewith God is offended, and good men diſplea<g ref="char:EOLhyphen"/>ſed, is principally to be reprehended; but leſt theſe wantons ſhould not believe theſe their fooliſh actions in painting, patching and ſpotting their faces (which are all one, but ſpot<g ref="char:EOLhyphen"/>ting the worſe, becauſe of its greater deformity) to be ſinful or diſpleaſing to God; let them hear the judgement of the holy Fathers of the Primitive times, and of other learned Doctors and Scholars in this point, unto whom they muſt grant, that more credit ought to be given then to their private fantaſtick humours, or to any the abettors of them: for againſt theſe learned and pious men no juſt exception can be taken: I will firſt begin with <hi>Origen,</hi> and ſo proceed.</p>
+            <p>
+               <hi>Origen. Tom.</hi> 2. <hi>Hom.</hi> 4. thus writeth;<note place="margin">
+                  <hi>Origen. To.</hi> 2. <hi>homil.</hi> 4. He was ſcho<g ref="char:EOLhyphen"/>lar to <hi>Clem. A<g ref="char:EOLhyphen"/>lexand.</hi> and li<g ref="char:EOLhyphen"/>ved <hi>Anno</hi> 226.</note> They, ſaith he, that uſe this painting, do injury to God, whoſe workmanſhip they would ſeem to mend, being diſcontented with it; Doth the Law of God require or favour it? Doth Reaſon uncorrupted teach it? or have the Laws of any wiſe or underſtanding heads endured or enjoyned it? No, they that uſe theſe paint<g ref="char:EOLhyphen"/>ings of the face do them <hi>in contumeliam Creatoris,</hi> to the re<g ref="char:EOLhyphen"/>proach of their Creator. So <hi>Origen.</hi>
+            </p>
+            <p>
+               <hi>Tertullian,</hi>
+               <note place="margin">Tertul. de habitu muliebr. c. <hi>5. A. D. 203.</hi>
+               </note> another ancient Father of the Primitive Church, thus writeth, <hi>In illum delinquit, quae cutem medicaminibus ungunt, genas rubore maculant, oculos fuligine collinunt; displicet illis nimi<g ref="char:EOLhyphen"/>rum plaſtica dei; in ipſis redarguunt, reprehendunt artificem omni<g ref="char:EOLhyphen"/>um; reprehendunt enim, cum emendant, cum adjiciunt, utique ab ad<g ref="char:EOLhyphen"/>verſario artifice ſumentes additamenta iſta, id eſt, Diabolo, &amp;c. Quod naſcitur opus Dei eſt, ergo quod fingitur Diaboli negotium eſt, &amp;c. Hodie Deus vos tales videat, quales tunc videbit, &amp;c. <g ref="char:V">Ʋ</g>bi Deus, ibi pudicitia, ibi gravitas adjutrix &amp; ſocia ejus. Quo ergo pacto pudicitiam ſine inſtrumento ejus, id eſt, ſine gravitate tractabi<g ref="char:EOLhyphen"/>mus? Quomodo autem gravitatem adminiſtrandae pudicitiae adhibe<g ref="char:EOLhyphen"/>mimus, niſi in facie, &amp; in cultu, &amp; in totius hominis contemplatione,
+<pb n="21" facs="tcp:43143:15"/>ſeveritas circumferetur.</hi> They offend againſt him who anoint their skin with medicines, who beſpot their eye-lids with red, and dawb their eyes with foot; for the workmanſhip of God diſpleaſeth them; therein they reprove and find fault with the maker of all things; for they find fault when they amend, when they adde thereto, taking ſuch additions from the adverſary<g ref="char:EOLhyphen"/>workman, that is, the Devil, &amp;c. That which is born is the work of God, therefore that which is counterfeit is the buſi<g ref="char:EOLhyphen"/>neſſe of the Devil, &amp;c. Let God behold you on this day ſuch as he then (to wit, at the Reſurrection) ſhall behold you, &amp;c. Where God is, there is Modeſty, there is Gravity her helper and aſſociate: After what manner ſhall we then uſe modeſty without her inſtrument, that is, without Gravity? and how ſhall we apply Gravity to Modeſty, unleſs Severity be obſer<g ref="char:EOLhyphen"/>ved in the face, and in the attire, and in regarding of the whole man?</p>
+            <p>Herein <hi>Tertullian</hi> doth intimate, that look what Modeſty and Gravity women here on earth have put on, in the like ſhall they appear in their face and ornaments at the day of Judgement: And moreover he makes a doubt, whether the Angels will carry up into Heaven ſuch a painted creature, <hi>An cum ceruſſa &amp; purpuriſſo &amp; croco expictam, Angeli in nubila ſub<g ref="char:EOLhyphen"/>levent, obviam Chriſto?</hi> Whether, ſaith he, the Angels will then carry up into the clouds one painted with white Lead, red Cheek-varniſh and Saffron, to meet Chriſt or not? So <hi>Tertul<g ref="char:EOLhyphen"/>lian.</hi>
+            </p>
+            <p>
+               <hi>Clemens Alexandrinus</hi> ſaith,<note place="margin">Clem. Alex. Pae<g ref="char:EOLhyphen"/>dagog. l. <hi>3.</hi> c. <hi>2. A. D. 204.</hi>
+               </note> That as a ſalve applied doth by the very ſight give cauſe to ſuſpect that he that weares it is diſ<g ref="char:EOLhyphen"/>eaſed, ſo theſe falſe Dyes, Tinctures and colours dawbed on womens faces, do ſignifie that the ſoul is ſick within. Again, as branded marks make known a Fugitive, ſo beautiful co<g ref="char:EOLhyphen"/>lours diſcloſe an Harlot; and he that calls them Harlots who make vizards of their faces is not miſtaken; for they that take more delight in their faces then in their hearts, ſet forth them<g ref="char:EOLhyphen"/>ſelves to pleaſe others: And is it not an abſurd thing, that Horſes, Birds, and other living creatures, ſhould riſe up from the green graſs and meadowes and flie away, rejoycing in their own natural ornament, mains, colours and plumes, and that a
+<pb n="22" facs="tcp:43143:16"/>woman, as if ſhe were inferiour to beaſts, ſhould think her ſelf deformed, that ſhe ſtands in need of externall, ſaleable, and counterfeit beauty, &amp;c. So <hi>Clem. Alex.</hi>
+            </p>
+            <p>St. Cyprian,<note place="margin">S. Cyprian. de habitu Virginis. Anno <hi>250.</hi>
+               </note> 
+               <hi>De habitu Virginis,</hi> thus writeth, <hi>Ornamentorum inſignia &amp; lenocinia fucoru<g ref="char:cmbAbbrStroke">̄</g>, non giſi proſtitutis, &amp; impudicis foeminis congruit, a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> nullarum ferè praetioſior cultus eſt, quàm quarum pudor vilis eſt;</hi> The flags of attire &amp; the alluring provocations of pain<g ref="char:EOLhyphen"/>ted faces belong to none but proſtituted and ſhameleſſe wo<g ref="char:EOLhyphen"/>men, but the attire of almoſt no women is more precious then of thoſe whoſe baſhfulneſſe is ſet out meanly. Again, <hi>Qui ſe pingunt in hoc ſeculo aliter quam creavit Deus, metuent, ne cum dies reſurrectionis venerit, arufex creaturam ſuam non recognoſcat;</hi> They who paint themſelves in this world otherwiſe then God made them, let them beware, that when the Reſurrection ſhall come, the Workmaſter do not know his workmanſhip. Again, ſaith the ſame Father, If ſome cunning Painter ſhould ſet forth the countenance and ſhape of a woman, and having ended his work another ſhould take upon him, as being more skilful, to reform and mend it, the firſt workman might juſt<g ref="char:EOLhyphen"/>ly ſeem to be injured and offended; And doſt thou think, O woman, to eſcape unpuniſhed, preſuming with the like auda<g ref="char:EOLhyphen"/>cious raſhneſs to offend God? Doth Sincerity and Truth con<g ref="char:EOLhyphen"/>tinue, when thoſe things that are ſincere are polluted with counterfeit colours, and thoſe things which are true are chan<g ref="char:EOLhyphen"/>ged into falſhood with deceitful tricks? The Lord ſaith, <hi>Thou art not able to make one haire white or black,</hi> Mat. 5.36. and thou to put down his ſaying, wouldſt thou be ſtronger? By audacious endeavour and ſacrilegious attempt thou coloureſt thy haires; feareſt not thou, I prethee, who art thus diſgui<g ref="char:EOLhyphen"/>ſed, leſt the Workman that made thee ſhould not acknow<g ref="char:EOLhyphen"/>ledge thee, and leſt he ſhould ſay, <hi>This is not my Work, this is none of our Image?</hi> Thou haſt polluted thy skin with deceitful Art, thou haſt changed thy hair with a counterfeit colour, thy face is falſified, thy ſhape is defiled, thy countenance is bor<g ref="char:EOLhyphen"/>rowed; thou canſt not ſee God, having not the eyes that God hath made, but which the Devil hath marr'd; thou haſt fol<g ref="char:EOLhyphen"/>lowed him, thou haſt imitated the red-ſhining and painted eyes of the Serpent, being trimm'd up in thine enemies faſhi<g ref="char:EOLhyphen"/>on;
+<pb n="23" facs="tcp:43143:16"/>thou art to burn alſo in like manner with him: Ought not theſe things, I prethee, to be confidered of the ſervants of God? are they not to be dreaded alwayes, both day and night? Thus St. <hi>Cyprian.</hi>
+            </p>
+            <p>
+               <hi>Lactantius</hi> ſpeaking of theſe fooliſh paintings, ſaith thus,<note place="margin">Lactantius de falſa ſapientia, cap. <hi>29.</hi> A. C. <hi>290.</hi>
+               </note> 
+               <hi>Nihil aliud ſunt quam deliramenta inconſideratae levitatis,</hi> They are nothing but the dotage of inconſiderate Inconſtancy. Thus <hi>Lactantius.</hi>
+            </p>
+            <p>St. <hi>Ambroſe, de Virg. l.</hi> 1. thus writeth hereof,<note place="margin">
+                  <hi>S.</hi> Ambr. de Virgin. l. <hi>1.</hi> A. C. <hi>374.</hi> Id Hexam. l. <hi>6.</hi> c. <hi>8. A. C 374.</hi>
+               </note> 
+               <hi>De adulterio vultus meditantur adulterium caſtitatis,</hi> By adulterating the vi<g ref="char:EOLhyphen"/>ſage they meditate the adulterating their chaſtity: The ſame Father alſo ſaith in <hi>Hexameron. l.</hi> 6. this painting is <hi>Pictura Mc<g ref="char:EOLhyphen"/>retricis,</hi> the picture of an Harlot. Again, ſaith the ſame Father, What a dotage is it to change the natural face which God hath made thee, for a painted face which thou haſt made thy ſelf? Thus St. <hi>Ambr.</hi>
+            </p>
+            <p>St. <hi>Hierom</hi> alſo thus writeth to the widow <hi>Furia,</hi>
+               <note place="margin">
+                  <hi>S.</hi> Hierom To. <hi>1.</hi> ad Furiam, de viduitate ſervanda. <hi>A. C. 390.</hi>
+               </note> 
+               <hi>Quid pul<g ref="char:EOLhyphen"/>chrius animâ, quae Dei Filia appellatur, &amp; nullos extrinſecus quaerit or<g ref="char:EOLhyphen"/>natus?</hi> What is there more beautifull then the Soul, that is called the daughter of God, that ſeeketh not after outward Ornaments? Again, <hi>Quanto foedior, tanto pulchrior, quid faciet in facie Chriſtiana purpuriſſus &amp; ceruſſa? quorum alterum rubo<g ref="char:EOLhyphen"/>rem genarum, labiorumque mentitur, alterum candorem Oris &amp; Colli; ignes juvenum, fomenta libidinum, impudica mentis indicia; ornatus iſte non Domini eſt; velam<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n iſtud Antichriſti eſt; Que fiduciâ erigit ad coelum vultus, quos conditor non agnoſcit; Fruſtra obtenditur Adoleſcentia, &amp; aetas puellaris aſſeritur:</hi> The more beautiful ſhe is, the more filthy ſhe is; what advantage doth the red-cheek colour and the white lead bring to the viſage of a Chriſtian woman? the one of them counterfeits the redneſs of the eye-lids and lips, the other the whiteneſs of the mouth and neck; they are the fire of youth, the foments of luſt, the tokens of an unchaſte mind. This ornament is not of the Lord; it is the veyle of Antichriſt; with what confidence doth ſhe lift up thoſe eyes to Heaven which her Maker ownes not? Youth and girliſh age is in vain alledged for excuſe, &amp;c. Thus St. <hi>Hierom.</hi>
+            </p>
+            <p>St. <hi>Chryſoſtome</hi> diſliking the painting of women,<note place="margin">
+                  <hi>S.</hi> Chryſ. To. <hi>2.</hi> Hom <hi>31.</hi>
+               </note> gives this
+<pb n="24" facs="tcp:43143:17"/>advice (amongſt others) unto the husband of a painted wife; <hi>Let her,</hi> ſaith he, <hi>ever and anon hear thee ſay, That the painted faces of women do diſpleaſe thee, and that they cauſe ſuch a loathing in thee that thou canſt not endure them:</hi> Alledge alſo the judgment of others that are of thy mind, and tell her, that gear doth marre them that are comely without it; make her believe that it will glad thy heart to ſee her with ſuch a face as God hath made, but that a face corrupted and altered from its nature, and dawbed with artificial colours, is commonly diſliked amongſt good men. Thus <hi>Chryſoſt.</hi>
+            </p>
+            <p>Ye may here obſerve how S. <hi>Chryſoſtome</hi> diſliked this art of painting faces, by perſwading the husband to diſſwade his wife from it.</p>
+            <p>S. <hi>Auguſtine</hi> alſo thus ſaith of the true attire of Chriſtian women,<note place="margin">
+                  <hi>S.</hi> Auguſtine ep. <hi>72.</hi> ad Poſſidon. <hi>A. C. 400.</hi>
+               </note> 
+               <hi>The true Ornament of Chriſtians,</hi> ſaith he, <hi>are not onely no counterfeit or lying Paintings, but good Manners.</hi> Thus Saint <hi>Aug.</hi>
+            </p>
+            <p>If women think painting an Ornament,<note place="margin">Stobaeus, Scrm. <hi>72.</hi>
+               </note> hear what a Philo<g ref="char:EOLhyphen"/>ſopher ſaid to that purpoſe; <hi>Democritus</hi> a Philoſopher (ſaith <hi>Stobaeus</hi>) ſaid, <hi>That the ſparing of ſpeech adorned a woman, and the ſparing of an ornament is an ornament unto her.</hi>
+            </p>
+            <p>But if the ſetting forth of Beauty be their aim,<note place="margin">Iſidor. Clar. To. <hi>1.</hi> O<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>at. <hi>53.</hi>
+               </note> liſten what <hi>Iſidorus Clarus</hi> will tell them touching that point; <hi>Such,</hi> ſaith this learned man, <hi>as would needs appeare conſpicuous and beauti<g ref="char:EOLhyphen"/>full here, ſhall inherit eternall deformity with the Devil and his An<g ref="char:EOLhyphen"/>gels.</hi>
+            </p>
+            <p>
+               <hi>Peter Martyr,</hi>
+               <note place="margin">P. Mart. <hi>2.</hi> Reg. c. <hi>9.30.</hi> Id. loc. com. l. <hi>2.</hi> c. <hi>11.</hi>
+               </note> a learned and ſound Proteſtant, 2 <hi>Kings</hi> 9.30. ſaith, <hi>It is no good face that ſeeks theſe helps.</hi> Again, <hi>Loc. commun. l.</hi> 2. <hi>cap.</hi> 11. <hi>If Chriſtian women,</hi> ſaith he, <hi>will ſo colour and paint themſelves, I pray what doth a Matron differ from an Harlot?</hi>
+            </p>
+            <p>
+               <hi>Jo:</hi>
+               <note place="margin">
+                  <hi>Calv.</hi> Jer. 4.30</note> 
+               <hi>Calvin</hi> on <hi>Ierem.</hi> 4.30. ſaith, <hi>Harlots to entice Adulterers are wont to paint their faces.</hi> You ſee here painting faces is the trick of an Harlot.</p>
+            <p>Mr. <hi>Downham,</hi>
+               <note place="margin">
+                  <hi>Jo: Downham,</hi> Chriſtian Warf. <hi>c.</hi> 14. <hi>l.</hi> 1.</note> a Reverend Engliſh Divine, in his <hi>Chriſtian Warfare, c.</hi> 14. <hi>l.</hi> 1. writing againſt all painting of the face, thus ſaith, <hi>Painting of the face, the Devils invention, abſolutely a ſin, not onely in the abuſe, but the very uſe, the nature of the thing; and not
+<pb n="25" facs="tcp:43143:17"/>onely in the intention of the doer; it is utterly wicked and abominable againſt the law of God, the light of Nature, againſt ſelf-ſhame and conviction; a reproach of God, a perverting of his Works in Na<g ref="char:EOLhyphen"/>ture, a cheat of others, a lure and bait to Sin, a fruit of Pride and Vanity, poyſonous to the Body, and pernicious to the Soul; it is the proper practice of Harlots and lewd women, and it is inconſiſtent with a Chriſtian profeſsion and a good conſcience.</hi> And all this Maſter <hi>Downham</hi> taketh out of the holy Fathers; and he brings in al<g ref="char:EOLhyphen"/>ſo <hi>Tertullian</hi> arguing againſt it,<note place="margin">Tertull.</note> as the Devils counterfeiting and mocking of God, by ſeeking to mend his works, as if God needed his enemies help to compleat his creatures, &amp;c. Thus Mr. <hi>Io: Downham.</hi>
+            </p>
+            <p>
+               <hi>Feſtus Pompeius,</hi> an ancient Roman Writer,<note place="margin">Sext. Pompeius Feſtus de verbs ſignif.</note> concerning the painting of lewd women, thus writeth, <hi>The Schaeniculae,</hi> ſaith he, <hi>were common Whores,</hi> ſo called from their uſing of the Oynt<g ref="char:EOLhyphen"/>ment <hi>Schoenum,</hi> (the worſt of all Oyntments.<note place="margin">Plaut. in Nervolaria<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note>) From <hi>Plautus</hi> alſo he calls them <hi>Diabolares</hi> and <hi>Miraculae,</hi> or <hi>Monſters;</hi> ſo interpreted by <hi>Ant. Auguſtinus</hi> in his Anotat. upon <hi>Feſtus; For painted Whores ſeem more like to Devils and Monſters then Women.</hi> From hence we may ſee that this cuſtome of painting faces was no new invention, but practiced by common Strumpets, by Pagan Harlots, at <hi>Rome</hi> before the Birth of Chriſt, and con<g ref="char:EOLhyphen"/>demned then even by the Heathens themſelves as a Deviliſh Cuſtome, comparing them that uſed it to Devils and Mon<g ref="char:EOLhyphen"/>ſters; yet theſe impudent creatures, in theſe our dayes, that profeſſe themſelves to be Chriſtians, would be accounted wiſe and witty in making themſelves ſuch ugly Monſters; but herein they are much miſtaken, for as a learned man ſeriouſly ſaith of ſuch as delighted in Monſters,<note place="margin">Balth. Bonifa. h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt. Ludicra. <hi>l. 16. c. 14.</hi>
+               </note> 
+               <hi>Monſtroſum profecto vi<g ref="char:EOLhyphen"/>detur, quod ſapientia, rerum pulcherrima, monſtrorum fuerit amans adeo pertinax ut iis undi<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> circumſepta eorum conſuetudine, non ſecus ac Venus Gratiarum contubernio jucundiſsime frueretur.</hi> Ve<g ref="char:EOLhyphen"/>rily (ſaith <hi>Boniface</hi>) it ſeems to be a monſtrous thing, that Wiſdome, the moſt beautiful of all things, ſhould be ſuch a wilful lover of Monſters, that being compaſſed about with them on every ſide, ſhe ſhould with great joy uſe their ſociety, as if it were <hi>Venus</hi> the companion of the Graces: But ſuch a one (ſaith mine Author) is verily a Monſter, though <hi>formoſum &amp;
+<pb n="26" facs="tcp:43143:18"/>aſpectabile illecebroſum &amp; delectabile;</hi> beautiful, amiable to be<g ref="char:EOLhyphen"/>hold, alluring and delectable: And here we ſee that wiſdom be<g ref="char:EOLhyphen"/>longs not to theſe creatures who thinking they look like <hi>Venus,</hi> make themſelves Monſters, reſembling rather <hi>Proſerpina,</hi> who (as the Poets feign) lived as much in Hell as in Heaven, as I fear theſe Monſters do, if not more; but <hi>Africa</hi> breeds Mon<g ref="char:EOLhyphen"/>ſters, <hi>Tangiers</hi> in <hi>Africa</hi> being ours, why may not then our creatures be Monſters? I grant they may be what indeed they are.</p>
+            <p>But theſe ſo wiſe creatures (in their own conceit) do think, that where Nature is defective they may juſtly correct it; but herein they are deceived, for that which is natural being Gods immediate workmanſhip is to be preferred before any artifi<g ref="char:EOLhyphen"/>cial invention of man, though never ſo curious; if we believe <hi>Solon,</hi> one of the wiſe men of <hi>Greece,</hi> who being demanded by King <hi>Craeſus</hi> ſitting on his Throne in his Royal glorious Robes,<note place="margin">Solon.</note> whether ever he ſaw the like before? Yes, ſaid <hi>Solon,</hi> the attire of Peacocks and Parrots ſeem to me more glorious, for that theirs is natural.</p>
+            <p>Let then every one ſubmit to Nature, which no man ought to correct, nor can long reſtrain, but it will ſoon revert, as the old ſaying is, <hi>Quicquid Natura dedit corrigere nefas eſt,</hi> It is unlawful to correct what Nature hath beſtowed. So alſo, <hi>Naturam expellas furca licet uſque recurret,</hi> Though you force Nature it will return again.</p>
+            <p>Dr. <hi>Iohn Bulwer</hi> hath not long ſince publiſhed a laborious Work,<note place="margin">Dr. <hi>Bulwer</hi> in his Man tranſ<g ref="char:EOLhyphen"/>formed, p. 260.</note> entituled, <hi>Man transformed,</hi> or <hi>the Artificial Change<g ref="char:EOLhyphen"/>ling,</hi> wherein among divers transfigurations of the outward li<g ref="char:EOLhyphen"/>neaments of mans Natural body, he hath with great judge<g ref="char:EOLhyphen"/>ment ſet forth his obſervations upon this painting and ſpot<g ref="char:EOLhyphen"/>ting of Faces by our Engliſh Ladies, ſome few whereof I ſhall here impart to the Reader, leaving the reſt (for brevity ſake) to be peruſed by any one who ſhall deſire it out of the Book it ſelf; ſuch as I have collected out of the reſt are theſe which follow. Our Doctor having before ſet down particu<g ref="char:EOLhyphen"/>larly the common uſe of painting and branding of Faces, uſed principally among the Indians, Africans, Americans, and other barbarous Nations, at laſt proceedeth with the painting and
+<pb n="27" facs="tcp:43143:18"/>spotting the faces uſed of late times by our Engliſh Ladies in theſe words following:</p>
+            <p>Our Engliſh Ladies, ſaith he, who ſeem to have borrowed ſome of their Coſmetical Conceits from barbarous Nations, are ſeldome known to be contented with a face of Gods ma<g ref="char:EOLhyphen"/>king; for they are adding, detracting or altering, continually, having many Fucuſſes in readineſſe for the ſame purpoſe: Sometimes they think they have too much colour, then they uſe art to make them look pale and fair; now they have too little colour, then Spaniſh Paper, red Leather, and other Coſ<g ref="char:EOLhyphen"/>metical Rubricks muſt be had: yet for all this it may be the skins of their faces do not pleaſe them; off they go to Mercu<g ref="char:EOLhyphen"/>ry-water, and ſo they remain like peel'd Ewes, untill their fa<g ref="char:EOLhyphen"/>ces have recovered a new <hi>Epidermis.</hi>
+            </p>
+            <p>Our Ladies here, ſaith the Doctor, have lately entertained a vain cuſtome of ſpotting their faces, out of an affectation of a Mole to ſet off their beauty, ſuch as <hi>Venus</hi> had; and it will, if one black Patch will ſerve to make their faces remarkable; for ſome fill their viſages full of them, varied into all manner of ſhapes and figures.</p>
+            <p>This is as odious and as ſenſleſſe an affectation as ever was uſed by any barbarous Nation in the world; and I doubt our Ladies that uſe them are not well adviſed of the effect they work; for theſe Spots in fair Faces advantage not Beauty, as they ſuppoſe, becauſe contraries compared and placed neare one another ſhew their luſtre more plainly, but becauſe it gives Envy ſatisfaction, which takes pleaſure in defects, or by reaſon it takes away that aſtoniſhment which inſtead of de<g ref="char:EOLhyphen"/>lighting confounds, not that imperfection can make perfect, or that the defect can encreaſe beauty, and therewith delight, for theſe Spots in a beautiful face adde not grace to a viſage, nor encreaſe delight; they entertain it becauſe they extin<g ref="char:EOLhyphen"/>guiſh and then renew it, &amp;c. A woman the more curious ſhe is about her face, the more careleſſe about her houſe, the re<g ref="char:EOLhyphen"/>pairing of the one being the ruining of the other, which makes <hi>Guſman</hi> cry even out, <hi>O filthineſs above all other filthineſs, O affront above all other affronts, that God having given thee one face, thou ſhouldſt abuſe his Image and make thy ſelf another!</hi> And is it not a
+<pb n="28" facs="tcp:43143:19"/>wonder (as my Lod <hi>Bacon</hi> notes) that this corrupt cuſtome of Painting hath ſo long eſcaped penal Laws, both of the Church and State, which have been very ſevere againſt the exceſſive vanity of Apparel, and the effeminate trimmiug of hair: and the wonder is the greater how it hath eſcaped Eccleſiaſtical cenſure, ſince all the Fathers of the Church have ſtrongly in<g ref="char:EOLhyphen"/>veighed againſt forced and feigned beauty, and this practice of introducing other hues then the blood naturally affords, &amp;c. God would not (ſaith a grave and learned Divine) have the face mangled and torne,<note place="margin">Dr. <hi>Donne,</hi> Seim. 20.</note> but then he would not have it varniſhed with foreign complexions: It is ill when it is not our own blood that appears in our cheeks; it may do ſome ill offices of blood, it may tempt, but it gives over when it ſhould do a good office of blood, it cannot bluſh; God would not have us disfigure our face with ſad countenances in Faſting and other Diſcipline, nor would have us go about to marre his work, or to do his laſt work (which he hath reſerved to him<g ref="char:EOLhyphen"/>ſelf in heaven) here on earth, that is, to glorifie our bodies with ſuch additions here, as though we would need no glorificati<g ref="char:EOLhyphen"/>on there. Thus Doctor <hi>Donne.</hi> In the invention of black Pat<g ref="char:EOLhyphen"/>ches the French ſhewed their wity pride, which could ſo cun<g ref="char:EOLhyphen"/>ningly turn Botches into Beauty, and make uglineſſe hand<g ref="char:EOLhyphen"/>ſome; yet in point of phantaſticalneſſe we may excuſe that Nation, as having taken up the faſhion rather for neceſſity then novelty, inaſmuch as thoſe French Pimples have need of a French Plaiſter. Thur Dr. <hi>Bulwer.</hi>
+            </p>
+            <p>I greatly pity the fooliſh pride and vanity of theſe ſilly wo<g ref="char:EOLhyphen"/>men, who voluntarily bring ſhame on themſelves by their peeviſhneſſe, in flighting the prudent advice and wholſome counſel and ſolid reaſons which the zealous holy Fathers of the Primitive Church, and other learned and pious Divines, have ſet before them, which if they would duly conſider and re<g ref="char:EOLhyphen"/>gard, they would, no doubt, ſee their own errours, and be per<g ref="char:EOLhyphen"/>ſwaded to imitate the faſhions of thoſe ſober and diſcreet La<g ref="char:EOLhyphen"/>dies and Gentlewomen, who abhor ſuch vain and fooliſh faſhi<g ref="char:EOLhyphen"/>ons which theſe ſo delight in, and follow ſuch faſhions as may tend to their credit and reputations: for nothing more bewit<g ref="char:EOLhyphen"/>ches them, nor allures them to theſe vain courſes, then the fa<g ref="char:EOLhyphen"/>ſhions
+<pb n="29" facs="tcp:43143:19"/>of the times, on which they dote in ſuch manner, as that (be they decent or undecent all is one to them) they more affect them then any good counſel whatſoever, which may croſs their humours; although they can ſhew no more reaſon to juſtifie their apiſh imitations, then can Apes themſelves, ſuch is the ſtrength of one ill example once brought to a cuſtome.</p>
+            <p>But if there be no remedy but that they will ſtill continue in their old courſes, and ſit in the ſeat of Scorners, deſpiſing all good admonition, though for their own welfare, I ſhall not then endeavour to make a Blackmoor white, but muſt leave them to the care and correction of the Magiſtrate, who fore<g ref="char:EOLhyphen"/>ſeeing the danger of the contagious infection of their diſeaſe, that is likely to encreaſe by toleration, if not in time prevent<g ref="char:EOLhyphen"/>ed, will doubtleſſe no longer connive thereat, but will ſpeedi<g ref="char:EOLhyphen"/>ly take ſuch a courſe to reduce them to a conformity with ci<g ref="char:EOLhyphen"/>vil people, as the ſtrict courſe of the Law ſhall preſcribe; which I conceive may properly be by way of Indictment of High Treaſon, for that they having not the fear of God before their eyes, but moved by the inſtigation of the Devil, did abuſe, counterfeit and deface Gods Image in their faces, to the evil example of others, and againſt Gods Crown and Dignity; there will need no evidence to convict them, for their crime will appear in their foreheads, and the ſentence will be accor<g ref="char:EOLhyphen"/>ding to their offence, to which I leave them. Herein the dili<g ref="char:EOLhyphen"/>gence of the Magiſtrate will be expected; for if he ſhould prove negligent, the Delinquent would be impudent, and the Magiſtrate juſtly blamed; for <hi>Qui non impedit, promovet,</hi> He that hindereth not a crime promoteth it; yet if in time theſe Girles will voluntarily of themſelves reform their manners, they may prevent this ſhame which is likely to fall on them; if not, they muſt be forced to feel the ſmart of their obſtinacy and contempt.</p>
+            <p>There is a wity diſcourſe not long ſince publiſhed of <hi>Arti<g ref="char:EOLhyphen"/>ficiall Beauty,</hi> wherein many reaſons are ſtrongly urged for to<g ref="char:EOLhyphen"/>leration of painting womens faces in ſome ſort, where their beautiful complexions are thereby the more illuſtrated; but thoſe arguments will not ſerve their turn, who produce them on the behalf of black-ſpotting Faces, whereby their comely
+<pb n="30" facs="tcp:43143:20"/>complexions are deformed, the one tending to correct Nature, (which in ſome ſort may be tolerable) the other to deſtroy Nature (which is in no ſort to be admitted;) but although the one may be more tolerable then the other in their ſeverall reſpects, yet neither of them are commendable, being both counterfeits.<note place="margin">Philo de Gi<g ref="char:EOLhyphen"/>gant.</note> Therefore <hi>Moſes</hi> (as <hi>Philo</hi> ſaith) baniſhed Painting and Statuary Art, becauſe they corrupt the truth with lies, and deceive credulous minds by thoſe repreſentations which are preſented to their eyes.</p>
+            <p>And now fair Ladies and Gentlewomen, if you think I have been too rigid againſt your faſhions, pardon old Age, which naturally is averſe to ſuch vanities, which may bring diſgrace, but no commendations to your good names: and though you may be cleare from any juſt cenſure of light behaviour, yet for your credit-ſake you ſhould endeavour to be free alſo from the very ſuſpicion thereof;<note place="margin">Plutarch. invit. Jul. Caeſ.</note> for as <hi>Plutarch</hi> writeth, Su<g ref="char:EOLhyphen"/>ſpicion onely moved <hi>Iulius Caeſar</hi> to put away his wife <hi>Pompeia</hi> (a gallant Lady of Noble Birth) becauſe <hi>Caefar</hi> would not that his wife ſhould not be ſo much as ſuſpected of incontinency.</p>
+            <p>If I have rubbed too hard upon your Sores, you know that foul Spots, eſpecially upon fair Subjects, are not ſlightly rub<g ref="char:EOLhyphen"/>bed out, but will require much and hard impreſſion: Remem<g ref="char:EOLhyphen"/>ber this, That never any one diſcreet man praiſed you for your patched faces, and alſo think how many daily diſpraiſe you for the ſame.</p>
+            <p>Having thus decyphered this new Mold of ſpotted Faces, I ſhall for a Farewell ſalute theſe black ones, with a few rude Rythmes, which may peradventure be more acceptable to them then Proſe, becauſe commonly ſuch more delight in Rythme then in Reaſon, and therewithall I ſhall conclude this diſcourſe.</p>
+            <lg>
+               <head>On black-ſpotted Faces.</head>
+               <l>PRoud fools with ſpots their faces patch thinking Gods work to mend,</l>
+               <l>But being dead God knowes them not, to <hi>Pluto</hi> they muſt wend;</l>
+               <l>
+                  <pb n="31" facs="tcp:43143:20"/>
+Whoſe gates ſtand ope to welcome them; they may well know by this,</l>
+               <l>That <hi>Noctes at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dies pat et atris Janua ditis.</hi>
+                  <note place="margin">Atris hic pro atri non impro<g ref="char:EOLhyphen"/>priè invertitur.</note>
+               </l>
+               <l>Hell gate is open day and night for ſuch as in black ſpots delight,</l>
+               <l>If pride their faces ſpotted make, for pride then hell their ſouls will take.</l>
+               <l>If folly be the cauſe of it, let ſimple fooles then learn more wit;</l>
+               <l>Black Spots and Patches on the face, to ſober women bring diſgrace;</l>
+               <l>Lewd Harlots by ſuch ſpots are known, let Harlots then enjoy their own.</l>
+               <l>So holy Fathers teſtifie, that Whores did chiefly uſe</l>
+               <l>The practice of Face-painting, in their Brothel-houſe or Stues.<note place="margin">Clem. Alex. <hi>S.</hi> Cypr. <hi>S.</hi> Ambr. <hi>S.</hi> Hierom. <hi>Beſides P.</hi> Mar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Jo: Calv. <hi>Dr.</hi> Downham, <hi>&amp;c. as before.</hi>
+                  </note>
+               </l>
+               <l>Pure and unſpotted ought to be, ſuch as expect Eternity.</l>
+               <l>Who then immaculate would be, of ugly ſpots he muſt be free:</l>
+               <l>But if where ſpots condemned are, impurity of mind be meant,</l>
+               <l>Then outward ſpots to face apply'd, can ſurely be no ornament.</l>
+            </lg>
+            <p>Thus I have done with this <hi>Metamorphoſis of fair Faces,</hi> which God hath made, into black Viſages, which the Devil hath for<g ref="char:EOLhyphen"/>ged, which being ſo much applauded by the greater ſort of young Gentlewomen (otherwiſe perhaps of good breeding) and voluntarily with delight uſed, though to their own ſhame, cannot improperly be ſtyled <hi>A Wonder of Wonders.</hi>
+            </p>
+            <closer>
+               <signed>Sic dixit MISO-SPIL<g ref="char:V">Ʋ</g>S.</signed>
+            </closer>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
